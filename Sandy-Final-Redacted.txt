@@ -1,0 +1,2287 @@
+
+
+
+
+UNCLASSIFIED1
+123456PERMANENT SELECT COMMITTEE ON INTELLIGENCE,7joint with the8COMMITTEE ON OVERSIGHT AND REFORM9and the10COMMITTEE ON FOREIGN AFFAIRS,11U.S. HOUSE OF REPRESENTATIVES,12WASHINGTON, D.C.131415DEPOSITION OF:	MARK SANDY16171819Saturday, November 16, 201920
+
+21Washington, D.C.22
+23
+
+The deposition in the above matter was held in Room HVC-304,24Capitol Visitor Center, commencing at 10:08 a.m.25Present:	Representatives Swalwell, Heck, and Wenstrup.
+
+
+UNCLASSIFIED
+
+2
+UNCLASSIFIED
+
+
+1 Also Present:	Representatives Costa, DeSaulnier, Maloney,
+2 Norton, Raskin, Jordan, Meadows, and Zeldin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNCLASSIFIED
+
+
+
+
+3
+UNCLASSIFIED
+
+
+1	Appearances:
+
+2
+
+3
+
+4	For the PERMANENT SELECT COMMITTEE ON INTELLIGENCE:
+5
+
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17
+
+18
+
+19	For the COMMITTEE ON OVERSIGHT AND REFORM:
+20
+
+21	
+22	
+23	
+
+
+
+
+UNCLASSIFIED
+
+4
+UNCLASSIFIED
+
+
+1	For the COMMITTEE ON FOREIGN AFFAIRS:
+2
+3	
+4	
+5	
+6	
+7	
+8
+
+9
+
+10	For MARK SANDY:
+11
+12 BARBARA VAN GELDER
+13 ALLEGRA KAUFFMAN
+14 KAREN D. WILLIAMS
+15 COZEN O'CONNOR
+16 1200 Nineteenth Street NW
+17 Washington, D.C. 20036
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNCLASSIFIED
+
+
+
+
+
+5
+UNCLASSIFIED
+
+
+1 MR. SWALWELL:	Good morning, Mr. Sandy, counsel, and colleagues,
+2 and welcome to the House Permanent Select Committee on Intelligence,
+3 which, along with the Foreign Affairs and Oversight Committees, is
+4 conducting this investigation as a part of the official impeachment
+5 inquiry of the House of Representatives.
+6 Today's deposition is being conducted as a part of the impeachment
+7 inquiry.	In light of attempts by the Office of Management and Budget
+8 and the administration to direct you to not cooperate with the inquiry,
+9 the committee had no choice but to compel your appearance.	We thank
+10 you for complying with the duly authorized congressional subpoena, as
+11 other current and former officials from across the Federal Government
+12 have done.
+13 Mr. Sandy is currently the Deputy Associate Director for National
+14 Security Programs at the Office of Management and Budget, a position
+15 that he has held since 2013.	He was also the Acting Director of 0MB
+16 in 2017 until a new 0MB Director was confirmed.
+17 His over two decades of public service have included roles as the
+18 managing director of the Millennium Challenge Corporation, an
+19 independent U.S foreign assistance agency established by Congress in
+20 2004 with strong bipartisan support, and staffing three White Houses
+21 of both Democratic and Republican Presidents.	Mr. Sandy also served
+22 over 21 years in the Navy Reserve, under 11 Secretaries and Acting
+23 Secretaries of Defense.
+24 Mr. Sandy, thank you again for your service.	We look forward to
+25 your testimony today, including your knowledge of and involvement in
+
+UNCLASSIFIED
+
+6
+UNCLASSIFIED
+
+
+1 key policy discussions, meetings, and decisions on Ukraine that relate
+2 directly to areas under investigation by the committees.
+3 Today, we will be primarily focusing on the administration's
+4 placement of a hold on Ukrainian security assistance in the summer of
+5 this year through the lifting of the hold on September 11.	We will
+6	also have question about OMB's response to the impeachment inquiry,
+7 including the committee's subpoena which 0MB continues to defy despite
+8 the fact that we know that it has already collected significant
+9 documentary evidence that goes to the heart of our inquiry.
+10 Finally, to restate what our chairman and others have emphasized
+11 in these interviews, Congress will not tolerate any reprisal, threat
+12 of reprisal, or any attempt to retaliate against any U.S. Government
+13 official for testifying before Congress, including you or any of your
+14 colleagues.
+15 It is disturbing that the Office of Management and Budget, in
+16 coordination with the White House, has sought to prohibit its employees
+17 from cooperating with the inquiry and with Congress and have tried to
+18 limit what they can say.	We find this unacceptable.
+19 Thankfully, consummate public servants like you have
+20 demonstrated remarkable courage in coming forward to testify and to
+21 tell the truth.
+22 Before I turn to committee counsel to begin the interview, I
+23 invite the ranking member or, in the absence of a ranking member, any
+24	member of the Foreign Affairs or Oversight Committee to make an opening
+25	remark.
+
+UNCLASSIFIED
+
+7
+UNCLASSIFIED
+
+
+1 Mr. Jordan?
+2 MR. JORDAN:	Thank you, Mr. Chairman.	I just wanted to welcome
+
+3 Mr. Sandy.
+4 And, again, thank you for your service to the country.
+5 MR. SWALWELL:	Mr. Mitchell?
+
+6 MS. VAN GELDER:	He would just like to say two sentences.
+7 MR. MITCHELL:	Well, I am going to go over the preamble first,
+
+8 and then he can have any opening remarks he wishes.
+9 MS. VAN GELDER:	Thank you.
+10 MR. MITCHELL:	This is the deposition of Mark Sandy conducted by
+11 the House Permanent Select Committee on Intelligence, or HPSCI,
+12 pursuant to the impeachment inquiry announced by the Speaker of the
+13 House on September 24th.
+14 Mr. Sandy, please state your full name and spell your last name
+15 for the record.
+16 MR. SANDY:	Mark Steven Sandy, S-a-n-d-y.
+17 MR. MITCHELL:	Along with other proceedings in furtherance of the
+18 inquiry to date, this deposition is part of a joint investigation led
+19 by the Intelligence Committee in coordination with the Committees on
+20 Foreign Affairs and Oversight and Reform.
+21 In the room today are majority staff and minority staff from all
+22 three committees, and this will be a staff-led deposition.	Members
+23 of course may ask questions during their allotted time, as has been
+24 the case in every deposition since the inception of this investigation.
+25 My name is Nicolas Mitchell, senior investigative counsel for
+
+UNCLASSIFIED
+
+8
+UNCLASSIFIED
+
+
+1 HPSCI.	I want to thank you for coming in today to this deposition.
+2 I'd like to do brief introductions.	To my right is Daniel
+3 Goldman, director of investigations for the HPSCI majority staff.
+4 Mr. Goldman and I will be conducting most of the interview for the
+s	majority.
+6 I will let my counterparts from the minority introduce
+7 themselves.
+8 MR. CASTOR:	Good morning.	Steve Castor with the Republican
+9 staff of the Oversight Committee and HPSCI.
+10	         
+11	
+
+12	-
+
+13	-
+14 MR. MITCHELL:	This deposition will be conducted entirely at the
+15 unclassified level.	However, the deposition is being conducted in
+16 HPSCI's secure spaces and in the presence of staff with appropriate
+17 security clearances.	We understand that your attorneys also have
+18 security clearances?
+
+19 MS. VAN GELDER:	No.
+20 MR. MITCHELL:	No.
+
+21 Nevertheless, it's the committees' expectation that neither
+22 questions asked of you nor answers provided by you will require a
+23 discussion of any information that is currently or at any point could
+24 be properly classified under Executive Order 13526.
+25 You're reminded that E.O. 13526 states that in no case shall
+
+UNCLASSIFIED
+
+9
+UNCLASSIFIED
+
+
+1	information be classified, continue to be maintained as classified,
+2	or fail to be declassified for the purpose of concealing any violations
+3 of law or preventing embarrassment of any person or entity.
+4 If any of our questions can only be answered with classified
+5 information, please inform us of that and we will adjust accordingly.
+6 Today's deposition is not being taken in executive session, but
+7	because of the sensitive and confidential nature of some of the topics
+8	and materials that will be discussed, access to the transcript of the
+9	deposition will be limited to the three committees in attendance.
+10 Under the House deposition rules, no Member of Congress nor any
+11 staff member can discuss the substance of the testimony you provide
+12 today.
+13 You and your attorney will have an opportunity to review the
+14 transcript.
+15 Before we begin, I would like to go over the ground rules for this
+16 deposition.	We will be following the House regulations for
+17 depositions, which we have previously provided to your counsel.
+18 The deposition will proceed as follows.	The majority will be
+19 given 1 hour to ask questions; then the minority will be given 1 hour
+20 to ask questions.	Thereafter, we will alternate back and forth between
+21 majority and minority in 45-minute rounds until questioning is
+22 complete.	We will take periodic breaks, but if you need a break at
+23 any time, do let us know.
+24 Under the House deposition rules, counsel for other persons or
+25 government agencies may not attend.	You are permitted to have an
+
+UNCLASSIFIED
+
+10
+UNCLASSIFIED
+
+
+1 attorney present during the deposition, and I see you have brought some.
+2 At this time, if counsel could please state their appearance for
+3 the record.
+
+4 MS. VAN GELDER:	Barbara Van Gelder, Cozen O'Connor.
+5 MS. WILLIAMS:	Karen Williams, Cozen O'Connor.
+6 MS. KAUFFMAN:	Allegra Kauffman, Cozen O'Connor.
+7 MS. VAN GELDER:	Training session.
+8 MR. MITCHELL:	There is a stenographer taking down everything
+
+9 that is said here today in order to make a written record of the
+10 deposition.	For the record to be clear, please wait until each
+11 question is completed before you begin your answer and we will wait
+12 until you finish your response before asking the next question.
+13 The stenographer cannot record nonverbal answers such as shaking
+14 your head, so it's important that you answer each question with an
+15 audible verbal answer.
+16 We ask that you give complete replies to questions based on your
+17 best recollection.	If a question is unclear or you are uncertain in
+18 your response, please let us know.	And if you do not know the answer
+19 to a question or cannot remember, simply say so.
+20 You may only refuse to answer a question to preserve a privilege
+21 recognized by the committee.	If you refuse to answer a question on
+22 the basis on privilege, staff may either proceed with the deposition
+23 or seek a ruling from the chairman on the objection.	If the chair
+24 overrules any such objection, you're required to answer the question.
+25 Finally, you're reminded that it is under lawful to deliberately
+
+UNCLASSIFIED
+
+11
+UNCLASSIFIED
+
+
+1 provide false information to Members of Congress or staff.	It is
+2 imperative that you not only answer our questions truthfully but that
+3 you give full and complete answers to all questions asked of you.
+4 Omissions may also be considered as false statements.
+5 As this deposition is under oath, Mr. Sandy, would you please
+6 stand and raise your right hand to be sworn?
+7 Do you swear that your testimony provided here today will be the
+8 whole truth and nothing but the truth?
+9 MR. SANDY:	I do.
+10 MR. MITCHELL:	Let the record reflect that the witness has been
+11 sworn.
+12 You may be seated.
+13 Mr. Sandy, if you have an opening statement or your attorney has
+14 any matters to discuss, now would be the time.
+15 MR. SANDY:	Thank you.
+16 Ladies and gentleman, I am here today as a fact witness and as
+17 a nonpartisan civil servant and military veteran who proudly serves
+18 the Executive Office of the President across administrations. I am
+19 not here to advocate for any outcome but simply to honor the oath we
+20 all share.
+21 Thank you.
+22 MR. SWALWELL:	All right.	Mr. Mitchell?
+23 MR. MITCHELL:	Thank you.	We will now begin our 1-hour first
+24 round.
+25 BY MR. MITCHELL:
+
+UNCLASSIFIED
+
+12
+UNCLASSIFIED
+
+
+
+1QSo, Mr. Sandy, what's your current title?2ADeputy Associate Director for National Security at the3	Office of Management and Budget.4QOkay.	And how long have you had that title?5ASince December of 2013.6QAnd when did you start working for OMB?7AInitially, I began in 1993.	I worked there until 1997 and
+8 then returned in 2011.
+9 Q	So I take it that you are a career civil servant, not a
+10 political appointee, in your current post.	Is that correct?
+
+
+11 A
+
+12 Q
+
+Yes, sir.
+Okay.	Can you just generally describe the organizational
+
+
+13 structure of your particular division or group at OMB?
+14 A	Certainly.	I lead the National Security Division, which
+15 includes four branches.	And we have responsibility for overseeing the
+16 budget and programs of the Department of Defense, the National Nuclear
+17 Security Administration, the Intelligence Community, and the
+18 Department of Veterans Affairs principally, as well as a few small
+19 agencies.
+
+
+20 Q
+
+21 A
+
+Okay.	And what is above the National Security Division? The Associate Director, who leads the so-called Resource
+
+22 Management Organization, or RMO.
+23 Q	And who is that?
+
+
+24 A
+
+25 Q
+
+Mr. Michael Duffey.
+And is that your immediate supervisor?
+
+UNCLASSIFIED
+
+13
+UNCLASSIFIED
+
+
+1 A	Yes.
+2 Q	Okay.	And how many people do you have working below you in
+
+3 the National Security Division?
+4 A	Approximately 35 when we are fully staffed, give or take a
+5 few detailees.
+6 Q	Okay.	And just generally, without going into too much
+7 detail, can you just describe your duties and responsibilities in your
+8 current position?
+9 A	In my position, I lead the division.	The division, overall,
+10 is responsible for overseeing the agencies and departments that I
+11 mentioned, in terms of their budgets and programs and policy priorities
+12 of the administration.
+13 Q	Okay.	And before I forget, Mr. Duffey, who's your
+14 supervisor, is he a career civil servant or is he a political appointee?
+15 A	Political.
+16 Q	Okay.	In your current role, have you ever had any
+17 responsibilities with regard to apportionments?
+
+
+18 A
+
+19 Q
+
+20 A
+
+Yes.
+And are you familiar with the term II apportionment official 11 ? We don't use that term very often, but -- if you mean the
+
+21 individual who is responsible for approving apportionments?
+22 Q	Yes, okay.	Were you an apportionment -- did you have the
+23 responsibility of approving apportionments at any given time during
+24 this current role?
+25 A	Yes, I did.
+
+UNCLASSIFIED
+
+14
+UNCLASSIFIED
+
+
+1 Q	Okay.	Generally, what is an apportionment?
+2 A	An apportionment is a legal document, consistent with
+3 provisions in Title XXXI of U.S. Code, which basically sets parameters
+4 on agencies' use of appropriated funds.
+5 Q	So, once funds are appropriated by Congress, is an
+6 apportionment required for those funds to be spent?
+7 A	Yes.	With very few exceptions, for nearly all accounts, an
+8 apportionment is required.
+9 Q	And, just generally, what does an apportionment look like?
+10 It's a physical document, presumably?
+11 A	Well, when printed -- most of our work is now electronic,
+12 of course, but when printed, it would have basically columns of
+13 information about budgetary sources and then the application or uses
+14 of those sources, as well as a number of accompanying -- if you look
+15 at it as a spreadsheet, you would have accompanying tabs with footnotes,
+16 for example, a signature block, et cetera.
+17 Q	Okay.	And, again, during this current role, there was a time
+18 where you were responsible for signing apportionments.	Is that
+19 correct?
+
+
+20 A
+
+21 Q
+
+For approving them, yes.
+Approving them and physically signing them?
+
+
+22 A	The signature is automatically loaded into the system, so
+23 it will appear on any apportionment that I approved.
+24 Q	Okay.	Can you just generally describe the process for
+25 reviewing and approving apportionments?
+
+UNCLASSIFIED
+
+15
+UN CLASSIFIED
+
+
+1 A	The agency typically submits a request, which comes into us
+2 electronically. It would have an agency request column, and then it
+3 will have a separate column for 0MB action.
+4 The examiner -- and that's the staff level at 0MB -- would first
+5 review that apportionment request, go back to the agency with any
+6 questions, and then, when he or she had completed their review, would
+7 route that forward to a branch chief, who would conduct a review and
+8 then route it forward to the approving official.
+9 Q	Okay.	And the examiner and branch chief, are those among
+10 the 35 individuals that you oversee?
+
+11ACorrect.12QAnd when you said the approving official, here we're talking13 about you, correct?
+
+
+14 A
+
+15 Q
+
+Previously, yes.
+Okay.	And you indicated that the examiner, he or she, might
+
+
+16 consult with the agencies that are submitting the request?
+17 A	Certainly.
+18 Q	Okay.	Can you just generally describe the nature of those
+19 conversations, how that back-and-forth would work?
+20 A	Well, the examiners have contacts at their respective
+21 agencies.	And so, if they had questions or concerns about the
+22 requested allocation of funds - - so, for example, a common allocation
+23 would be an allocation across the four quarters of the fiscal year.
+24 And if an examiner was concerned about ensuring that enough resources
+25 were left for, say, the fourth quarter, the examiner may ask how the
+
+UNCLASSIFIED
+
+16
+UNCLASSIFIED
+
+
+1 agency came up with the allocations that it's requesting.
+2 Q	Okay.	And would those communications between the examiner
+3 and the agency typically be documented in one form or another?
+4 A	It really depends.	There could be email que stions and
+5 answers, or it could simply be a phone call.
+6 Q	Okay.	And then you indicated that the examiner would then
+7 provide some sort of report or recommendation to the branch chief?
+
+
+8 A
+
+9 Q
+
+10 A
+
+Correct.
+And what form would that take?
+That would be an electronic note with whatever information
+
+
+11 the examiner deemed relevant that would be routed forward in our online
+12 system.
+
+
+13 Q
+
+14 A
+
+15 Q
+
+What's the name of your online system?
+MAX.
+Do the examiners communicate with branch chiefs about their
+
+
+16 review solely through MAX, or could it also be done through email as
+17 well?
+18 A	It could also be done via email, but MAX auto-generates
+19 emails to alert people that information is awaiting their action.
+20 Q	Okay.	So if an examiner had any concerns about a particular
+21 request by an agency, would those be reflected in the MAX system?
+22 A	They could be.	It depends on how the examiner chooses to
+23 communicate that information.
+
+
+24 Q
+
+25 A
+
+Well, where else could it be?
+It could also be in an email or in a conversation .
+
+UNCLASSIFIED
+
+17
+UNCLASSIFIED
+
+
+1 Q	Okay.	Once the branch chief receives, either through email,
+2 the MAX system, or some sort of oral communication, an examiner's report
+3 or concerns, what does the branch chief do next?
+4 A	The branch chief has responsibility for reviewing the
+5 apportionment, a second review and, again, if the branch chief has
+6 questions, going back to the examiner, or if he or she supports the
+7 apportionment, routing it forward.
+8 Q	Okay.	So it's an iterative process between a branch chief
+9 and the examiner, or it can be?
+10 A	It can be.	The branch chief has authority, for example, to
+11 basically send an apportionment back to an examiner or route it forward.
+12 Q	Okay.	And then, once the branch chief -- or how does the
+13 branch chief go about routing it forward?
+
+
+14 A
+
+15 Q
+
+16 A
+
+That, again, would be within the electronic MAX system. Okay.	Also through email as well, possibly?
+Again, if the branch chief wanted to communicate additional
+
+
+17 information, email is an option, but the system auto-generates emails
+18 to the approving official
+19 Q	Okay.	So you, as the approving official, when you did have
+20 that role --
+
+
+21 A
+
+22 Q
+
+Yes.
+-- would you see the recommendations of the branch chief as
+
+
+23	well as the comments or recommendations of the lower-level examiners?
+
+
+24 A
+
+25 Q
+
+Yes.
+Okay.	Did you typically accept the recommendations of your
+
+UNCLASSIFIED
+
+18
+UNCLASSIFIED
+
+
+1 staff with regard to whether to approve an apportionment or not?
+2 A	Generally.	The vast majority of apportionments are quite
+3 routine.
+4 Q	Okay.	Can you recall an instance when you disagreed with
+5 your staff's recommendations?
+6 A	Yes.
+7 Q	Okay.	Without getting into specifies, necessarily, can you
+8 just generally describe the circumstances under which you would
+9 disagree or have questions about what was presented to you?
+10 A	Well, one key example is, if you have an apportionment, you
+11 cannot change the allocations for a previous quarter.	So if you're
+12 in the second quarter of a fiscal year and the agency submits a request
+13 and it changes the allocation for the first quarter, you can't do that.
+14 So if the examiner or the branch chief didn't catch that error, I would
+15 just catch the error and have it corrected.
+16 Q	Okay.	All right.	And was that sort of thing a frequent
+17 occurrence?
+18 A	No.	Generally, by the time it reached the third level of
+19 review, those sorts of issues have been resolved.
+20 Q	It sounds like what you're describing is kind of more of a
+21 technical issue that was mere oversight, not a larger issue that
+22 required further consultation with any other entity within 0MB.	Is
+23 that generally accurate?
+
+
+24 A
+
+25 Q
+
+Generally, that's the case, yes. Okay.
+
+UNCLASSIFIED
+
+
+
+
+19
+UNCLASSIFIED
+
+
+1 What is OMB's Budget Review Division?
+2 A	The Budget Review Division coordinates exercises across the
+3 entire agency, particularly with respect to the development of the
+4 annual President's budget, but it	also runs number of drills to collect
+5 information, often at the behest of policy officials.	It also has
+6 experts in many of our circulars	for example, Circular A-11.
+7 Q	Okay.	To your knowledge, have you or branch chiefs or any
+8 examiners ever consulted with OMB's Budget Review Division about
+9 particular apportionments just to seek advice?
+
+
+10 A
+
+11 Q
+
+Absolutely.
+Okay.	And when you were responsible for reviewing and
+
+
+12 approving apportionments, how often would you receive an apportionment
+13 to approve?
+14 A	I received hundreds every year.	And they came in large
+15 tranches, depending upon, for example, when we had a new appropriation.
+16 You could always expect heavy volume at the end of the fiscal year and
+17 at the beginning of a fiscal year or around key events such as the
+18 enactment of appropriations or a continuing resolution.
+19 Q	Okay.	And when you received these apportionments, is it
+20 fair to say that -- well, tell me.	Was it a matter of routine that
+21 you would simply sign them?	Or would you carefully scrutinize them
+22 and potentially have discussions with branch chief, examiners, and
+23 others about the apportionments, if appropriate?
+24 A	I'd certainly have discussions if I had questions or they
+25 had flagged anything we needed to discuss.	But the vast majority of
+
+UNCLASSIFIED
+
+20
+U N CLASSI	FIED
+
+
+1 these are quite routine, particularly if you've done this -- you've
+2 seen them before.
+3 Q	Okay.
+4 All right.	So today we're going to focus on two different types
+5 of security assistance, specifically to Ukraine.	The first is the DOD
+6 Ukraine Security Assistance Initiative, USAI, and then the second is
+7 the State -administered foreign military financing.
+8 Can you just generally describe and compare USAI versus FMF?	And
+9 I'm also going to ask you what your experience is with respect to both.
+10 A	Okay.	Let me say at the start that FMF is not within the
+11 purview of my division.	So I will not speak to that, because that is
+12 handled by our counterpart division, the International Affairs
+13 Division.	But I'm glad to speak to USAI.
+14 USAI, as appropriated in the defense appropriations bill and as
+15 authorized in the National Defense Authorization Act, broadly is
+16 designed to provide training, equipment, and other forms of assistance
+17 to Ukraine.	I know in fiscal year 2019 there was an appropriation for
+18 $250 million.
+19 Q	Okay.	I understand that your current role does not involve
+20 FMF, but at any point during your career did you have any exposure to
+21 FMF issues?
+22 A	I previously worked in the International Affairs Division,
+23 but FMF was not handled by my branch.
+24 Q	Okay.	All right.
+25 So you mentioned the $250 million in USAI funds for 2019.	Are
+
+UNCLASSIFIED
+
+21
+UNCLASSIFIED
+
+
+1 you generally aware of the congressional notifications that went out
+2 with regard to this $250 million in 2019?
+3 A	Yes.
+4 Q	So the first notification was around March 5th.	Is that
+5 correct?
+
+
+6 A
+
+7
+
+8
+
+9
+
+10 Q
+
+I recall the month of March.
+[Majority Exhibit No. 1
+             was marked for identification.] BY MR. MITCHELL:
+I'm going to hand you exhibit No. 1.	Do you recognize what
+
+11 this is, sir?
+
+
+12 A
+13 Q
+14 A
+
+Yes.
+And what is it?
+It looks to be a congressional notification consistent with
+
+
+15 the statutory requirements vis-a-vis USA!.
+16 Q	And this was for the first tranche of USA! aid in 2019.	Is
+17 that correct?
+
+18 A	Correct.
+19 Q	Were you all
+20 MS. VAN GELDER:	Excuse me.
+21 Have you ever seen this before?
+22 MR. SANDY:	I have not seen the actual document.	I'm just
+
+23 recognizing it based upon doing a quick scan.
+24 BY MR. MITCHELL:
+25 Q	Okay, but you're familiar with the fact that there was a
+
+UNCLASSIFIED
+
+
+
+
+22
+UNCL A SSI FIED
+
+
+1 congressional notification for two different tranches of aid in 2019
+2 related to USA!?
+
+3 A	Yes.
+4 Q	Okay.	And exhibit No. 1 is the first tranche.	Is that your
+
+5 understanding?
+
+6 A	Yes, that's my understanding.
+7 Q	Okay.	Have you seen the congressional notification for the
+
+8 second tranche?
+
+
+9 A	I have not.
+
+10
+
+11
+
+
+
+[Majority Exhibit No. 2
+was marked for identification.]
+
+
+
+12
+13 Q
+
+BY MR. MITCHELL:
+Okay.	Well, just so the record is complete, I'm handing you
+
+
+14 exhibit No. 2.
+15 A	Thank you.
+16 Q	And what's the date of this particular document?	There
+17 should be two dates up at the top.
+18 A	I see the dates stamped as May 23rd and May 28th.
+19 Q	Okay.	And it's your understanding that there was a second
+20 congressional notification, which was in the May time period, for the
+21 second tranche of USA! funds.	Is that right?
+22 A	Yes.
+23 Q	Okay.	Are you aware of, generally, the interagency process
+24 that led up to these two CNs?
+25 A	I don't participate in the interagency process, so I don't
+
+UNCLASSIFIED
+
+23
+UNCLASSIFIED
+
+
+1 have detailed knowledge.
+2 Q	Okay.	But are you aware of any concerns that were raised
+3 either during the interagency process or during your time at 0MB during
+4 the spring of 2019 that led up to either of these congressional
+5 notifications regarding the CNs for the first and second tranche of
+6 USA!?
+7 A	I was not aware of anything prior to the notifications.
+8 Q	To the best of your recollection, did 0MB issue any
+
+9 apportionments for USA! funds between March, which was the first CN,
+10 and mid-June of 2019?
+11 A	The USA! funds are actually included in a larger account.
+
+12 That account is the Defense-wide operation and maintenance account.
+13 So we would have issued apportionments for that account earlier in the
+14 fiscal year.
+15 Q	Okay.	And do you know - - so can you distinguish between USA!
+16 funds that would've been included in an apportionment versus the larger
+17 funds that were in that account, or are they all commingled?
+
+18 A .	They were commingled.
+19 Q	Okay.
+20 When did you first learn that security assistance funds related
+21 to Ukraine were being withheld or might be withheld?
+22 A	I'm just consulting my calendar.	I was on leave through July
+23 17th.	I returned to the office on July 18th.	And I learned of that
+24 shortly after my return, so I would say it was either July 18th or July
+25	19th.
+
+UNCLASSIFIED
+
+
+
+
+24
+UN CLASSIFIED
+
+
+1 MS. VAN GELDER:	And I'd just like the record to reflect, this
+2 is a blank calendar, just for his - - when he says "my calendar," it's
+3 not his actual office calendar.
+4 BY MR. MITCHELL:
+
+5 Q	Okay.	When did you go on leave?
+6 A	I was out of the office starting on Monday, July 8th.
+7 Q	So you did not hear anything about Ukraine security
+
+8 assistance possibly being on hold at any time during the month of June
+9 or during that first week of July?
+
+10ANo.11QDid you hear of any questions that were being raised by 0MB12 about Ukraine security assistance at the end of June or the beginning
+13 of July?
+
+14A	Yes.15Q	Can you describe what you heard?16A	I heard that the President had seen a media report and he17hadquestions about the assistance.18[Discussion off the record.]19BY MR. MITCHELL:20Q	When did you hear that the President had seen a media report21andhad questions about the assistance?22A	On June 19th.23Q	Do you know what media report that was?24A	I don 't recall the specific article.25Q	Who told you that the President had these concerns or these
+UNCLASSIFIED
+
+25
+UNCLASSIFIED
+
+
+1 questions?
+
+2 A	Mike Duffey.
+3 Q	And that was the conversation that you had with Mr. Duffey
+4 on June 19th?
+
+5 A	I believe it was an email.
+6 Q	Okay.	Can you describe what that email said?
+7 A	The email expressed an interest in getting more information
+8 from the Department of Defense.
+9 Q	And what kind of additional information?
+10 A	A description of the program.
+11 Q	What exactly did Mr. Duffey say, to the best of your
+
+12 recollection, in that email?
+13 A	That the President had questions about the press report and
+14 that he was seeking additional information.
+
+
+15 Q
+16 A
+
+17 Q
+
+Anything else in that email? Not that I recall.
+Did you have a conversation with Mr. Duffey about this
+
+18 request?
+19 A	I only recall the email.
+20 Q	Okay.	Did you have a conversation with anyone else
+21 following this email from Mr. Duffey?
+22 A	The email was directed to the Department of Defense, and I
+23 received information the following day.
+
+
+24 Q
+25 A
+
+Okay.	So you were copied on this email? Correct.
+
+UNCLASSIFIED
+
+26
+UNCLASSIFIED
+
+
+1 Q	Okay.	And who did Mr. Duffey send the email to at DOD?
+2 A	As I recall, Ms. Elaine Mccusker.
+3 Q	And who was she?
+4 MS. VAN GELDER:	Do you want to spell that last name for the
+
+5 reporter?
+
+6 MR. SANDY:	Sure.	M-c-c-u-s-k-e-r.
+7 BY MR. MITCHELL:
+
+
+8 Q
+9 A
+
+10 Q
+
+And who was she? Deputy Comptroller.
+Okay.	Is that someone that you communicate with as part of
+
+11 your normal course of business?
+12 A	Yes.
+13 Q	Did you have any conversations with Ms. Mccusker following
+14 this request by Mike Duffey?
+15 A	She provided me with a hard-copy summary the following day.
+16 Q	And when you say she provided you with a hard copy, she
+17 physically gave you a hard copy?
+18 A	She did, because she was attending a meeting at 0MB.
+19 Q	Okay.	Did she ever send you any electronic communication
+20 as well in response to Mike Duffey's email?
+21 A	I only recall the hard copy.
+22 Q	Okay.	And what was that hard copy?
+
+
+23 A
+
+24 Q
+
+It was an overview of USAI.
+Had you seen this overview before?	Was it a precooked
+
+25 document?
+
+
+UNCLASSIFIED
+
+27
+UNCLASSIFIED
+
+
+1 A	I hadn't seen it before, so I can't speak to its origin.
+2 Q	Okay.	And what did you do with this hard-copy document that
+
+3 Ms. Mccusker gave you?
+4 A	We shared it with Mike Duffey.
+
+5 Q	Who's "we"?
+
+
+6 A	Sorry.
+7 Q	Okay.
+ 
+When I say "we," I generally refer to NSD staff. And how did you share it with him?	Did you physically
+
+8 give it to him, or did you scan it and email it to him?
+9 A	I recall he was out of the office that day, so I don't recall
+10 exactly how it was shared.
+11 Q	Okay.	Did you eventually have a conversation with
+12 Mr. Duffey about the information that Ms. Mccusker gave you?
+13 A	I don't recall a specific conversation on that.
+
+
+14 Q
+
+15 A
+
+16 Q
+
+What about email exchanges? Not that I recall.
+Did Mr. Duffey come back to you with any additional
+
+
+17 questions?
+18 A	He came back to members of my staff.
+19 Q	Okay.	Can you describe what you know about that?
+
+
+20 A
+
+21 Q
+
+22 A
+
+He had a number of followup questions related to the program. And what were those?
+And I don't recall all the specifics, but more information
+
+
+23 on the financial resources associated with the program, in particular.
+24 Q	I don't -- what does that mean?
+25 A	Oh, sorry.	It would be in terms of the history of the
+
+UNCLASSIFIED
+
+28
+UNCLASSIFIED
+
+
+1 appropriations, any more details about the intent of the program.
+
+2 Q	And was that information provided to Mr. Duffey?
+3 A	Yes.
+4 Q	And how?
+5 A	So one of my staff members provided that information
+
+6 electronically.
+
+7 Q	Were you copied on those emails?
+8 A	Yes.
+9 Q	Okay.
+
+10 Are you aware that 0MB has received a subpoena from Congress for
+11 documents related to some of the topics that you've already discussed
+12 here today?
+13 A	Yes.
+14 Q	Have you undertaken any sort of efforts to gather documents
+15 that might be relevant to the subpoena?
+16 A	Those efforts within 0MB are led by our Office of the General
+17 Counsel.
+18 Q	Have you personally gone through any of your emails or other
+19 records to find documents that might be responsive to the subpoena?
+20 A	My understanding from counsel is that they --
+21 [Discussion off the record.]
+22 MR. SANDY:	I have not undertaken that in response to such a
+23 request.
+24 [Discussion off the record.]
+25 MR. SANDY:	Sorry.	I just want to explain that when 0MB decides
+
+UNCLASSIFIED
+
+
+
+
+29
+UNCLASSIFIED
+
+
+1 to collect information electronically, it is done centrally.
+2 BY MR. MITCHELL:
+3 Q	Okay.	Is it possible that you also -- well, have you seen
+4 the subpoena that was issued?
+
+5 A	I have seen the subpoena
+6 Q	Okay.
+7 A	-- yes.
+8 Q	And so you're generally aware of the information that the
+9 committees are seeking.	Is that correct?
+10 A	Yes.
+
+
+11 Q
+
+12 A
+
+Okay.	Do you generally keep hard-copy notes in your office? Some notes.	And we were advised to retain all that
+
+13 information.
+14 Q	Okay.	Do you know whether those notes -- did you provide
+15 copies of those notes to anyone?
+
+
+16 A
+
+17 Q
+
+18 A
+
+19 Q
+
+I have not been requested to do so.
+Okay.	So they've been preserved.	Is that correct? Correct.
+Okay.	But no one has actually collected them, to your
+
+
+20 knowledge.
+21 A	Correct.
+22 Q	All right.
+23 Now, you indicated that Mr. Duffey had some additional questions
+24 and members of your staff provided additional information to him
+25 electronically.	Is that correct?
+
+UNCLASSIFIED
+
+30
+UNCLASSIFIED
+
+
+1 A	Correct.
+2 Q	Okay.	Were you copied on those communications as well?
+3 A	Well, I was copied on them, yes.
+4 Q	Okay.	And did you have any conversation with Mr. Duffey
+
+5 about any of the additional information that was provided to him?
+6 A	Not that I recall.
+
+7 Q	Do you know what Mr. Duffey did with that information?
+8 A	I do not know.
+9 Q	Do you know whether he provided that information back to the
+
+10 White House?
+11 A	I was not copied on any sharing of that information, so the
+12 short answer is I don't know.
+13 Q	Okay.	Well, have you had any conversations with anyone
+14 about whether Mr. Duffey shared that information with the White House?
+
+
+15 A
+
+16 Q
+
+I do not recall. Okay.	All right.
+
+17 So Mr. Duffey has these questions on June 19th, and there is a
+18 back-and-forth between Mr. Duffey -- a request from Mr. Duffey to DOD.
+19 Is that correct?
+
+
+20 A
+
+21 Q
+
+The initial request was to DOD, yes.
+And DOD responds through you with this hard-copy document,
+
+
+22 correct?
+
+23ACorrect.24QAnd then Mr. Duffey asks for additional information, which25	your staff then gathers and submits to Mr. Duffey.	Is that right?
+
+UNCLASSIFIED
+
+
+
+
+31
+UNCLASSIFIED
+
+
+1 A	Correct.
+2 Q	And you don't have any conversations with Mr. Duffey about
+
+3 any of these requests, either on email or in person or over the phone,
+4 during this time period?
+
+5 A	I don't recall the specifics.
+6 Q	Okay.	So Mr. Duffey never provided any more color on what
+
+7 the President had concerns about or questions about with regard to USA!?
+8 A	Later he did.
+9 Q	Okay.	When was that?
+10 A	When I returned from leave July 18th, I was informed of the
+11 President's direction to hold military support funding for Ukraine.
+
+
+12 Q
+
+13 A
+
+14 Q
+
+15 A
+
+16 Q
+
+17 A
+
+18 Q
+
+Who communicated that to you? Mike Duffey.
+How?
+I recall a conversation.
+Can you describe that conversation?
+He communicated that that was the direction he had received. Okay.	I want to know everything that you can possibly recall
+
+19 about that conversation with Mr. Duffey on or about July 18th or 19th
+20 in which he told you that the President had decided to put a hold on
+21 Ukraine security assistance.
+22 A	Okay.	On the 19th, he shared that he had communicated this
+23 direction to the Department of Defense.
+24 Q	"He" being Mr. Duffey?
+25 A	I'm sorry.	Yes.	Mr. Duffey.
+
+UNCLASSIFIED
+
+32
+UNCLASSIFIED
+
+
+1 Q	Okay.
+2 A	He also expressed a desire to create an apportionment that
+3 would implement the hold.
+
+4 Q	What else?
+5 A	And he --
+
+6 MS. VAN GELDER:	Go ahead.	Are you done?
+7 Are you ready?
+8 MR. GOLDMAN:	I am.
+9 MS. VAN GELDER:	Any more dentist jokes over there?
+10 MR. SANDY:	And we had a conversation about that request on Friday
+
+11 the 19th.
+12 MR. SWALWELL:	Mr. Sandy, where was the conversation?
+13 MR. SANDY:	I recall a conversation in the Eisenhower Executive
+14 Office Building.	And then he also followed up with me by phone later
+15 that day, on the 19th.
+16 MR. SWALWELL:	So the first conversation was on July 19 in the
+17 EEOB.	Is that right?
+18 MR. SANDY:	I returned on the 18th, and so I don't recall exactly
+19 what happened on the 18th versus the 19th in terms of getting caught
+20 up after having been on leave for nearly 2 weeks.	But I do recall
+21 specifically the nature of that request.
+22 MR. SWALWELL:	And could you set the scene for us?	Is this in
+23 a common space?	Your office?	His office?	Where was the
+24 conversation?
+25 MR. SANDY:	As I recall, it	was in a hallway after a meeting where
+
+UNCLASSIFIED
+
+33
+UNCLASSIFIED
+
+
+1 we had an initial conversation, but the specific request was
+2 communicated to me via phone later on the 19th.	So I was in my office,
+3 and I presume he was in his.
+4 MR. SWALWELL:	Okay.	And you received a phone call from
+5 Mr. Duffey to you in your office.
+6 MR. SANDY:	He sent me an email saying we needed to connect.	I
+7 probably called him.
+8 MR. SWALWELL:	And, in the email, did he reference what you needed
+9 to connect about, or did he just say he wanted to connect?
+
+10 MR. SANDY:	As I recall, it was about Ukraine.
+11 MR. SWALWELL:	Okay.
+
+12 Mr. Mitchell?
+13 BY MR. MITCHELL:
+14 Q	But it sounds like you had a subsequent conversation with
+15 him on the 19th.	Is that right?
+16 A	So that was the conversation I was describing with the
+17 specific request.
+18 Q	All right.	And you indicated that Mr. Duffey said he wanted
+19 to create an apportionment that would implement the hold.	Can you
+20 describe the conversation surrounding how to create this apportionment
+21 or what that apportionment might look like with Mr. Duffey on that day?
+22 A	Right.	So, o,n that day, I emphasized that that would raise
+23 a number of questions that we would need to address.	And so I advised
+24 that we would want to consult with our Office of the General Counsel
+25 on those questions first.
+
+UNCLASSIFIED
+
+.. . .
+
+
+
+34
+UNCLASSIFIED
+
+
+1 Q	When you were speaking with Mr. Duffey, putting aside any
+2 subsequent conversation you might have had with legal counsel, what
+3 were those questions that you raised with him?
+
+
+4
+
+5 Act
+
+A	I just made a general reference to the Impoundment Control
+
+
+6 Q	Okay.
+7 A	- - and said that we would have to assess that with the advice
+
+8 of counsel before proceeding.
+9 Q	Okay.	And you're not an attorney, correct?
+
+10 A	That is correct.
+11 Q	What is your training with -- your professional training
+
+12 with regard to accounting, for example?
+13 A	Well, I would say, all career staff who work in these resource
+14 management offices generally have general awareness of, for example,
+15 in this case, the Impoundment Control Act --
+
+16 Q	Okay.
+17 A	-- enough knowledge to know when to ask for advice.
+18 Q	Okay.	So, in these specific circumstances --
+19 A	Yes.
+20 Q	-- when you raised the Impoundment Control Act with
+
+21 Mr. Duffey during this conversation on July 19th, why did you think
+22 that a modification to the apportionment to account for the hold might
+23 implicate the Impoundment Control Act?
+24 A	Ah.	Because these moneys are what we call 1-year funds,
+25 which means that their period of availability was expiring on September
+
+UNCLASSIFIED
+
+35
+UNCLASSIFIED
+
+
+1 30th.	And consistent with a layman's understanding of the Impoundment
+2 Control Act, we need to ensure that agencies are able to obligate funds
+3 before they expire.
+4 Q	And what is your understanding of, if those funds cannot be
+5 obligated before they expire, what happens?
+6 A	Then  they  basically expire  and  they  return  to the Treasury.
+7 Q	And  there  could   be  a  violation   of   the   Impoundment  Control
+8 Act if	they expire in that way?
+9 A	Potentially.
+10 Q	Okay.	And that was your concern July 19th when you had this
+11 conversation with Mr. Duffey?
+12 A	My concern was that there was - - I asked about the duration
+13 of  the  hold and was told there was not  clear guidance on that.	So that's
+14 what prompted my concern.
+15 Q	Okay.	So you asked Mr. Duffey about the duration of the
+16 hold.
+
+
+17 A
+
+18 Q
+
+That is	correct.
+Okay.	What was Mr. Duffey' s reaction when you mentioned the
+
+
+19 Impoundment Control Act?
+20 A	I think he appreciated my concern and acknowledged that I
+21 offered to take the lead in terms of following up with the Office of
+22 General Counsel.
+
+
+23 Q
+
+24 A
+
+Okay.	So did he direct  you  to  consult  with General Counsel? I was doing that in my own initiative, but he certainly didn't
+
+25 object.
+
+
+UNCLASSIFIED
+
+36
+UNCLASSIFIED
+
+
+1 Q	Okay.
+2 Now, Mr. Duffey, you indicated, was a political appointee.	Is
+
+3 that correct?
+
+4 A	Yes, he is.
+5 Q	Do you have general understanding of Mr. Duffey's
+
+6 familiarity with apportionments and the Impoundment Control Act at the
+7 time that you had this conversation on July 19th?
+
+8 A	I was not aware of any previous experience of his.
+9 Q	All right.	Just to be clear, are you saying that you don't
+
+10 believe that he had any prior experience on July 19th regarding the
+11 Impoundment Control Act or apportionments generally?
+
+
+12 A
+
+13 Q
+
+I was not aware of any prior experience that he had. Okay.
+
+14 This conversation that you had with Mr. Duffey, did you document
+15 it in any way?
+
+16ANo.17QOkay.Did you have any followup emails or any sort of18 memoranda that would reflect the fact of the conversation on July 19th
+19 with Mr. Duffey?
+20 A	No.	I followed up by phone with the Office of General
+21 Counsel.
+22 Q	Okay.	What about in a calendar?	Is there any sort of
+23 calendar record of this meeting on July 19th?
+24 A	No.
+25 MR. SWALWELL:	What day did you follow up by phone with General
+
+UNCLASSIFIED
+
+37
+UNCLASSIFIED
+
+
+1 Counsel?
+2 MR. SANDY:	I followed up with an initial conversation that
+3 evening and then scheduled a subsequent call for Monday morning, the 4		22nd.
+5 MR. SWALWELL:	So July 19, in the evening, by phone, you contact
+6 General Counsel.
+
+7 MR. SANDY:	Correct.
+8 MR. SWALWELL:	Okay.
+9 BY MR. MITCHELL:
+10 Q	You indicated, when you got back from leave, I think you said
+11 you received an email from Mr. Duffey saying, "Call me."	Is that
+12 right?
+
+
+13 A
+
+14 Q
+
+Yes.
+Okay.	Do you know whether anyone told Mr. Duffey to talk
+
+
+15 to you about the hold?
+16 A	So he shared with me an email that described the desire - - the
+17 President's direction with respect to the hold.
+
+
+18
+
+19	you?
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Q	How did he share this email with you?	Did he forward it to
+
+
+A	Yes, he did.
+Q	What was the date of that email?
+A	As I recall, the date of the email was July 12th.
+Q	While you were on leave?
+A	Correct.
+Q	And who was that email from?
+
+UNCLASSIFIED
+
+38
+UNCLASSIFIED
+
+
+
+1 A
+
+2 Q
+3 A
+
+4 Q
+
+5 A
+
+6 Q
+
+7 A
+
+8 Q
+
+9 A
+
+10 Q
+
+Office of the Chief of Staff. Which Chief of Staff?
+Oh.	Chief of Staff of the White House, that office. So Mick Mulvaney's office?
+Correct.
+And who from the Office of Chief of Staff sent this email? Mr. Robert Blair.
+Who is Robert Blair?
+He is a senior advisor to the Acting Chief of Staff.
+Have you ever had any interactions with Mr. Blair during the
+
+
+11 course of your duties?
+12 A	Yes.	Previously, he was the Associate Director for National
+13 Security Programs -- in essence, Mike Duffey's predecessor.
+14 Q	Okay.	So he was your immediate supervisor for some period
+15 of time at OMB?
+
+
+16 A
+
+17 Q
+
+Correct.
+And then did Mr. Blair go to the Office of Chief of Staff
+
+
+18 more or less when Mr. Mulvaney went from 0MB to Office of Chief of Staff?
+19 A	Shortly thereafter, as I recall.
+20 Q	And Mr. Mulvaney was also, during this time period, the
+21 Acting Director of 0MB, correct?	He was dual-hatted?	Let me be
+22 precise about my time period.	In mid-July of 2019.
+23 A	So he retains the title of Director of 0MB, but he does not
+24 perform those functions.
+25 Q	Okay.
+
+UNCLASSIFIED
+
+
+
+
+39
+UNCLASSIFIED
+
+
+1 So this July 12th email from Mr. Blair, what did it say?
+2 A	To the best of my recollection, that the President is
+
+3 directing a hold on military support funding for Ukraine.
+
+
+Q
+
+A
+Q
+
+7	A
+Q
+
+9	A
+Q A Q
+13	A
+Q A Q
+A
+Q
+
+19 you?
+20 A
+21 Q
+22 by OMB?
+23 A
+24 Q
+
+25 that one
+
+What else was in that email? Nothing that I recall.
+Was any other country mentioned?
+
+
+Any other security assistance package?
+
+
+Any other aid of any sort? Not to my recollection.
+Any other topic at all in this email?
+
+
+Who did Mr. Blair send this email to? Mr. Duffey.
+Who else was on the email?
+I don't recall anybody else being copied.
+And you indicated that Mr. Duffey forwarded this email to
+
+
+Correct.
+To the best of your knowledge, has that email been retained
+
+
+Yes.
+ Was there anything else in this email string, or was it	just communication that you've already described?
+
+UNCLASSIFIED
+
+
+
+
+
+40
+UNCLASSIFIED
+
+
+1 A	The only -- that was just the one communication.
+2 Q	Okay.	And what did you do with that email?
+3 A	I retained it.
+4 Q	Anything else?	Did you forward it to anyone?
+5 A	I am pretty confident that I would have forwarded that to
+
+6 members of my staff.
+7 Q	Okay.	All right.	And remind me again when you received
+8 this July 12th email.
+9 A	So he had made a reference to that direction, but, as I
+10 recall, I didn't actually receive it until Monday the 22nd.
+11 Q	Monday the 22nd.	Okay.	So between - - well, let's take back
+12 the clock a couple of days.
+
+13AUh-huh.14QYou had this communication with Mr. Duffey on July 19th at15 EOB.	You indicated that there might be -- you had concerns about the
+16 Impoundment Control Act.	And did you then consult with 0MB counsel?
+
+17 A	I did.
+18 Q	Okay.	I don 't want to - - I'm not going to get into what they
+
+19 might've told you.	But did you - - I think you indicated that you called
+20 0MB counsel.	Is that correct?
+21 A	Yes.	I spoke to 0MB counsel Friday evening and arranged for
+22 a conference call Monday morning.
+23 Q	All right.	I don't have the calendar in front of me.	What's
+24 the date of that Friday?
+25 A	Friday the 19th.
+
+UNCLASSIFIED
+
+
+
+
+41
+UNCLASSIFIED
+
+
+1 Q	Okay.	And you arranged for a conference call?
+2 A	Yes, for Monday morning.
+3 Q	The 22nd.
+4 A	Correct.
+5 Q	Okay.	At the time that you spoke with 0MB counsel, did you
+
+6 have copy of this July 12th email from Rob Blair?
+7 A	No.	As I recall, I received the actual email on the 22nd.
+
+8 Q	Okay.	After your conference call with legal counsel?
+9 A	I don't recall the specific time of day that I received the
+
+10 email.
+11 Q	Okay.
+12 Between July 19th and July 22nd, including July 22nd, did
+13 Mr. Duffey provide you any explanation as to why the President wanted
+14 to place a hold on Ukraine security assistance?
+15 A	No.
+
+16 Q	Did you ask?
+17 A	Yes.
+18 Q	And what was the response?
+19 A	He was not aware of the reason.
+20 Q	To the best of your recollection, what precisely did he say
+
+21 to you when you asked for the reason for the President's decision to
+22 place a hold on security assistance?
+
+23 A	That he was not aware.
+24 Q	He simply said, "I don't know"?
+25 A	Yes.
+
+UNCLASSIFIED
+
+42
+UNCLASSIFIED
+
+
+1 Q	Did he indicate that he was going to try to get more
+2 information as to why the President was placing a hold on security
+3 assistance?
+4 A	I am pausing because I -- there was certainly a desire to
+5 learn more about the rationale.
+6 Q	Whose desire?
+7 A	A desire on the part of Mike Duffey, myself, and other people
+
+8 working on this issue.	So I want to answer your question accurately
+9 in terms of saying, that desire was acknowledged.
+10 Q	All right.	Did Mr. Duffey say that he was going to try to
+11 get additional information as to the reason for the hold?
+12 A	Yes.	He certainly said that if he got additional
+13 information he would share it with us.
+14 Q	Okay.	At any point in time, from the moment that you walked
+15 into the SCIF to anytime in history, has Mr. Duffey ever provided to
+16 you a reason why the President wanted to place a hold on security
+17 assistance?
+18 A	I recall in early September an email that attributed the hold
+19 to the President's concern about other countries not contributing more
+20 to Ukraine.
+21 Q	What was the date of this email?	You said early September.
+
+
+22 A
+
+23 Q
+
+24 A
+
+25 Q
+
+I don't recall the specific date. Who was the email from?
+Mike Duffey. To who?
+
+UNCLASSIFIED
+
+
+
+
+43
+UNCLASSIFIED
+
+
+
+1ATo me.2QWas anyone else on the email?3AI don't recall.4
+
+s
+
+orQ
+afterDo you recall whether this email was before September 9th
+September 9th?6ABefore.7QHow do you know that?
+8AI recall early September, but not the precise date.
+9QWas there anything else in this email?10ANot that I recall.11QWas it in response to an email that you had sent?12ANo, not that I recall.13QDo you know what prompted this email from Mr. Duffey to you?
+14 If you know.
+15 A	I don't know.	We have had multiple conversations
+16 throughout -- starting in July and continuing about what the reason
+17 for the hold was.
+18 Q	Well, do you know whether -- did you have any followup
+19 conversations with Mr. Duffey	bout this email?
+20 A	No.
+
+
+
+
+
+
+
+
+
+UNCLASSIFIED
+
+44
+UNCLASSIFIED
+
+
+1	[11:07 a.m.]
+2 BY MR. MITCHELL:
+3 Q	Was this the first time that you heard that the hold might
+4 be about some sort of concern that other countries are not providing
+5 sufficient support to Ukraine?
+6 A	We had received information requesting -- sorry.	We had
+7 received requests for additional information on what other countries
+8 were contributing to Ukraine.
+9 Q	Okay.	Did you have any other conversations with Mr. Duffey
+10 following this email in early September about this email or about the
+11 fact
+
+
+12 A
+
+13 Q
+
+May I consult with counsel?
+Sure.	Let me finish the question, though.	Or about the
+
+
+14 substance of the email, the fact of the other countries not providing
+15 sufficient assistance?
+16 [Discussion off the record?]
+17 MR. SANDY:	I just want to clarify, I do recall in early September
+18 that we got requests for information on what additional countries were
+19 contributing to Ukraine.	I would want to be accurate in recollecting
+20 the precise date of the email, so I'd like to amend my previous comment
+21 and say, I just don't want to provide something false, because I don't
+22 remember the specific date.
+23 BY MR. MITCHELL:
+24 Q	Okay.	So it may have been before or it may have been after
+25 the 9th of September.	You just recall that it was the beginning of
+
+UNCLASSIFIED
+
+
+
+
+
+
+
+
+
+
+
+so
+UNCLASSIFIED
+
+
+1 A	Correct.
+2 Q	And did you get that advice?	Not asking you what the advice
+3 was, but did OGC provide you with guidance?
+
+4	A	[Nonverbal response.]
+5	Q	And when did they do that?
+6	A	So those conversations lasted over several days.
+7 Q	Okay.
+8 A	And the answer to your question is yes.
+9 Q	Okay.	And was the guidance -- not asking about the content
+
+10 of the guidance, but did it	come over email?	Was it	an official letter?
+11 And when did it arrive, finally?
+12 A	There were email exchanges, and I recall an email that
+13 concluded those exchanges on Wednesday, July 24th.
+14 Q	Okay.	And I believe you indicated the question was relating
+15 to the Impoundment Control Act.
+16 A	My questions, yes.
+17 Q	Right.	Okay.	And the issue is resolved on Wednesday, July
+18 24th.	And, obviously, because of what happened, the hold was
+19 implemented.	Is that correct?
+20 A	The issues addressed questions that I had vis-a-vis an
+21 apportionment.
+22 Q	Right.
+
+
+23 A
+
+24 Q
+
+And so Uh-huh.
+
+I just want to answer your question precisely.
+
+25 A
+
+So that apportionment was finalized on July 25th.
+
+
+
+UNCLASSIFIED
+
+
+
+
+
+
+
+
+53
+UNCLASSIFIED
+
+
+1 A	Chiefly through Mike Duffey -­
+2 Q	Okay.
+3 A	-- but also in the interagency processes of the National
+
+4 Security Council.
+5 Q	Okay.	And did you get additional guidance?
+6 And just to be clear, the footnote restricting the obligations,
+7 how long is that in effect for?	Is that a 2-week hold?
+8 A	It was through August 5th, as I recall.
+9 Q	Okay.
+10 [Discussion off the record.]
+11 BY MR. CASTOR:
+12 Q	So the first written apportionment with the footnote
+13 restricting the funds goes out on July 25th.
+14 A	Yes, sir.
+15 Q	And that's holding the funds, in effect, until August 5th;
+16 that's the next date?
+
+
+17 A
+
+18 Q
+
+Correct.
+Okay.	And during that time period, you said you were seeking
+
+
+19 guidance from policy officials, and you mentioned DOD and the National
+20 Security Council?
+
+
+21 A
+22 Q
+
+23 A
+
+Through the National Security Council process. Okay.
+Yes.
+
+
+24 Q	And what can you tell us about those communications?	Like,
+25 who were you dealing with at the NSC?
+
+UNCLASSIFIED
+
+
+
+
+
+
+
+
+
+
+
+59
+UNCLASSIFIED
+
+
+1 there had been a subsequent apportionment.
+2 Q	When was the subsequent apportionment?	That was on August
+3 5th, you said?
+4 A	It would've come shortly after the first one, which expired
+5 on August 5th.	So I believe it was on August 5th.
+
+6 Q	How long was the memo?	Do you remember?
+7 A	Oh, maybe three or four pages with content from those
+
+8 different contributing components.
+9 Q	Okay.	Three or four pages, and each of the three components
+10 had a piece to the memo?
+
+
+11 A
+
+12 Q
+
+That's correct.
+Okay.	And for your piece, do you remember anything more
+
+
+13 about it?
+
+
+14 A
+
+15 Q
+
+16 A
+
+I do remember that we provided our recommendation. Okay.	And what was the recommendation?
+The recommendation was to
+
+
+17 [Discussion off the record.]
+18 MR. SANDY:	The recommendation was to remove the hold -­
+19 MR. CASTOR:	Okay.
+20 MR. SANDY:	-- on certain policy arguments.
+21 BY MR. CASTOR:
+
+22 Q
+
+23 A
+
+Okay.	Do you remember what the policy arguments were? One was that the assistance to Ukraine is consistent with
+
+24 the national security strategy - -
+25 Q	Okay.
+
+UNCLASSIFIED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

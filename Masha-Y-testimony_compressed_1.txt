@@ -1,0 +1,1891 @@
+
+
+
+
+
+
+
+
+
+
+2PERMANENT SELECT COMMITTEE ON INTELLIGENCE,3joint with the4COMMITTEE ON OVERSIGHT AND REFORM5and the6COMMITTEE ON FOREIGN AFFAIRS,7U.S. HOUSE OF REPRESENTATIVES,8WASHINGTON, D.C.9101112DEPOSITION OF:	MARIE "MASHA" YOVANOVITCH1314151617Friday, October 11, 201918Washington, D.C.192021The interview in the above matter was heldin Room
+22 HVC-304, Capitol Visitor Center, commencing at 10:38 a.m.
+23 Present:	Schiff, Himes, Quigley, Heck, and Maloney.
+24 Also Present:	Representatives Norton, Plaskett , Raskin,
+25 J ordan , Meadows, Malinowski, Perry, and Zeld i n.
+
+
+
+
+2
+
+
+
+
+Appearances:
+2
+
+3
+
+4	For the PER MANEN T SELECT COMMITTEE ON IN TE LLIGEN C E:
+5
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21
+
+22	
+23
+24
+25	For the COMMITTEE ON OVERSIGHT AND REFORM:
+
+3
+
+
+
+
+2	
+3	
+4	
+5
+
+6
+
+7	For the Committee ON FOREIGN AFFAIRS:
+8
+
+9	
+10	
+11	
+12	
+13
+
+14
+
+15 For MARIE YOVANOVI TCH:
+16 LAWRENCE S.	ROBBINS, ESQ.
+17 LAURIE RUBENSTEIN, ESQ.
+18 RACHEL 5.	LI WAI SUEN , ESQ.
+19 ROBBINS , RUSSELL, ENGLERT, ORSECK,
+20 UNTEREINER & SAUBER LLP
+21 2000 K Street, N.W. 4th Floor
+22 Washington, D.C. 20006
+23
+
+24
+25
+
+4
+
+
+
+
+THE CHAIRMAN:	Okay.	The committee will come to order.
+2 Good morning, Ambassador, and welcome to the House Permanent
+3 Select Committee on Intelligence, which along with the
+4 Forei gn Affairs and Oversight, Committees, is conducting this
+5 investigation as part of the official impeachment inquiry of
+6 the House of Representatives.
+7 Today's deposition is being conducted as part of the
+8 i nquiry .	On behalf of all of us today, on both sides of the
+9 table, I want to thank you for your decades of service to the
+10 Nation, and especially for so ably representing the United
+11 States as our Ambassador to Armenia, Kyrgyzstan, and Ukraine.
+12 As you know firsthand, the post-Soviet space has presented a
+13 myriad of challenges for success of American administrations.
+14 And as the successor states, the former USSR continue to
+15 grapple with the consequences of 70 years of Communism.
+16 I've read about the curtailment of your posting i n Kyiv,
+17 and I have seen the shameful attacks made on you by those who
+18 lack your character and devotion to country.	While we will
+19 doubtless explore more fully the circumstances of your
+20 premature recall during this interview, I'm appalled that any
+21 administration would treat a dedicated public servant as you
+22 have been treated.
+23 As you know, the White House and the Secretary of State
+24 have spared no effort in trying to prevent you and others
+25 from meeting with us to tell us the facts.	Because of the
+
+5
+
+
+
+administration's efforts to block your deposition and
+2 obstruct your inquiry, the committee had no choice but to
+3 compel your appearance today.	We thank you for complying
+4 with the duly authorized congressional subpoena.
+5 Finally, I want you to know that the Congress will not
+6 tolerate any attempt to retaliate against you or to exact
+7 retribution of any kind.	We expect that you' ll be treated in
+8 accordance with your rank, and offered assignments
+9 commensurate with your expertise and long service.	Should
+10 that not be the case, we will hold those responsible to
+I I	account.
+12 2	Before I turn to committee counsel to begin the
+13 deposition, I invite Ranking Member N un es or any member of
+1 4	HPSCI, or in their absence, any of my minority colleagues to
+15 make opening r ema r ks on Mr. Nunes' behalf.
+16 MR. J ORDAN:	Thank you, Mr. Chairman.	Just for the
+17 7	record, on October 2nd, 2019, the Speaker of the House, Nancy
+18 Pelosi, said that she would treat the President with
+19 fairness.	Fa ir ness requires certain things.	Just a few
+20 minutes ago, the chairman of the Intel Committee said that
+21 this is an official impeachment inquiry.
+22 If it's an official impeachment inquiry, we should be
+23 following precedent.	Every recent impeachment has permitted
+24 minority subpoenas.	The right of the minority to issue
+25 subpoenas subject to the same rules as the majority has been
+
+6
+
+
+
+
+the standard bipartisan practice in all recent resolutions
+2 author i zi ng presidential impeachment inquiries.	That is not
+3 the case today, has not been the case sin ce th i s, quote,
+4 "official impeachment i nqu i ry" began.
+5 Democ rat s' failure to provide ranking members with equal
+6 subpoena power shows this is a partisan investigation.
+7 Second, Democrats have threatened witnesses who request
+8 agency counsel to be present for their tran scr i bed interview
+9 and/or dep ositi on.	State Department lawyers have a right to
+IO	protect executive branch interests, i nclud i ng national
+II security interests.	Democrats have threatened to withhold
+12 salaries of State Department officials who ask for the
+13 presence of State Department lawyers in depositions.
+14 I've been in countless number of depositions and/ or
+15 transcribed i nterv i ews, this is only the second one I've ever
+16 seen where agency counsel was not perm i tted to be in the room
+17 when a witness was deposed or asked questions, the first was
+18 last Thursday.	The first witness as a part of this, qu ote ,
+19 "off i c i al impeachment i nqu i ry."
+20 And, finally, fa i rn ess r equi res due process.	The
+21 President and minority should have the right to see all
+22 evidence, both favorable and unfavorable.	The President and
+23 mi nor i ty should have the ability to p resen t evi de nce bearing
+24 on the cred i bi lit y of testifying witnesses.	The President
+25 and the m i nor i ty should have the ab i l i ty to raise objections
+
+7
+
+
+
+relating to examination of witnesses, and the admissibility
+2 of testimony and evidence.	And the Pre si dent and the
+3 minority should have the ability to respond to all evidence
+4 and testimony presented.
+5 With that, I would like to yield to my co ll eague from
+6 the Foreign Affairs Committee, Mr. Zeldin, for a f ew items to
+7 put on the record as well.
+8 MR. ZELDIN:	Yesterday, Ranking Member Mccaul sent a
+9 letter to Chairman Engel consistent with what Mr. Jordan was
+10 just referencing on the record, calling on the chair to honor
+I I	the bipartisan Rodino Hyde precedence that governed both the
+12 Nixon and Clinton impeachment inquires, which guaranteed the
+13 President's counsel the right to participate in these
+14 proceedings, and allowed the minority to exercise coequal
+15 subpoena author i ty.
+16 Moving on.	The question is, what specific provision of
+17 House rules gives the House Permanent Select Committee on
+18 Intelligence the jurisdiction and authority to convene an
+19 investigative inquiry of a State Department diplomat
+20 regarding the conduct of U.S. fo r ei gn policy toward Ukraine?
+21 That is clearly the jurisdiction of the Foreign Affa i rs
+22 Committee, and to date, the House has not voted to give the
+23 I n te l Committee any additional authority to conduct an
+24 impeachment inquiry outside of its jur i sdi ct i onal la ne, which
+25 concerns intelligence-related activities.
+
+
+
+8
+
+
+
+
+Can you please point us to anything in the House rules
+2 that gives you this authority?
+3 THE CHAIRMAN:	We're going to move forward with the
+4 deposition rather than address the mischaracterizations of
+5 both impeachment history and inquiries and process.	I would
+6 now recognize Mr. Goldman .
+7 MR. MEADOWS:	Mr. Chairman, point of order.	Point of
+8 order.
+9 THE CHAIRMA N:	My colleague, we're not going to allow -­
+10 MR. MEADOWS:	Well, you can't not allow -- I'm here to
+11 tell you, Mr. Schiff --
+12 THE CHAIRMAN:	We're not going to allow any dilatory
+13 MR. MEADOWS:	you know the House rules allows for
+14 po· nt of order in any
+15 THE CHAIRMAN:	State your point of order.
+16 MR. MEADOWS:	The point of order is the rules of the
+17 House are very clear.	The gentleman raised a valid point
+18 that there are no rules that would give the authority of you
+
+19 to actually depose this witness.	And so. under what
+20 authority -- I would say you're out of order.
+21 THE CHAIRMAN:	I appreciate your opinion, but the House
+22 deposition r ule s say otherwise.	So, Mr. Goldman, you are
+23 recognized.
+24 MR . z ELDIN:	Poi nt of order , though , we a re aski ng what
+25 that rule is that gives you the authority to conduct today 's
+
+9
+
+
+
+deposition.
+2 MR. MEADOWS:	Rule 11 doesn' t outline anything.
+3 THE CHAIRMAN:	We won' t allow any further dilatory
+4 mot i on,s.	M r. Gold man, you' re recogni zed.
+5 MR. ZELDIN:	We're asking a simple que sti on.
+6 MR. GOLDMAN:	Thi s i s the deposition of Ambassador Marie
+7 Yovanovitch conducted by the House Permanent Select Committee
+&	on Intellige nce , also called HPSCI, pursuant to the
+9	impeachment inquiry announced by the Speaker of t he House on
+10	September 24th.
+II MR. GOLDMAN:	Ambassador Yova nov i tch , cou ld you please
+12 state you r full name and spell your last name for the record.
+13 MR . ROBBINS:	I'm sorry , before we begin the deposition.
+14 Sor ry , I represent the witness.	My name is Larr y Robb i ns.
+15 The ambassador has an opening state ment to make.
+16 MR. GOLDMAN:	We'r e going to get to that.
+17 MR. ROBBINS:	I see.
+18 MR . GOLDMAN:	Aft er we lay out the ground rul es here,
+19 we'll turn it over to the Ambassador.
+20 MR. ROBBINS:	Okay.	It's a deal.
+21 MR . GOLDMAN:	All right.	If you could go ahead and
+22 please state your ful l nam e and spell it for the record.
+23 MS. YOVANOVITCH:	Mar i e Louise Yovanovitch.	Marie,
+24 M-A-R-I-E, Louise, L-0-U-I-S-E, Yovanov i tch ,
+25	Y-0-V-A-N-O-V-I-T-C-H.
+
+10
+
+
+
+
+MR. GOLDMAN:	Thank you.	Along with other proceedings
+2 in furtherance of the inquiry, the deposition is part of a
+3 joint investigation led by the Permanent Select Committee on
+4 Intelligence in coordination with the Committee on Foreign
+5 Affairs. and the Committee on Oversight and Reform.
+6 In the room today. I believe, are at least given the
+7 option of having two majority staff and two minority staff
+8 from both the Foreign Affairs and the Oversight Committees,
+9 as well as majority and minority staff from HPSCI.	This is a
+10 staff-led deposition, but members, of course, may ask
+II	questions during the allotted time.
+12 My name is Daniel Goldman, I'm a senior advisor and
+13 director of investigations for the HPSCI majority staff, and
+14 I'd li ke to thank you for coming in today for this
+15 deposition.	I'd like to do some brief introductions.	To my
+16 right is Nicolas Mitchell, senior investigative counsel for
+17 HPSCI.	Mr. Mitchell and I will be conducting most of the
+18 interview for the majority.
+19 And I will now let my counterparts who will be ask i ng
+20 any questions introduce themselves.
+21 MR. CASTOR:	Good morning, Ambassador.	My name is Steve
+22 Castor, I'm a staffer with the Oversight and Government
+23 Reform Committee, minority staff.
+24 MR. BREWER:	Good morning.	I'm David Brewer from
+25 Oversight as well.
+
+11
+
+
+
+
+MR. GOLDMAN:	This deposition will be conducted entirely
+2 at the unclassified leve l.	However, the deposition is being
+3 conducted in HPSCI's secure space s, and i n the presence of
+4 staff who all have appropriate security clearances.	It is
+5 the committee's expectation that neither questions asked of
+6 the witness nor answers by the witness or the witness'
+7 counsel will require discussion of any information that is
+8 currently, or at any point could be properly classified under
+9 executive order 13526.
+10 Moreover, E0-13526 states that, quote, "in no case shall
+I I	i nf ormat i on be classified, continue to be maintained as
+12 classified, or fail to be declassified," unquote, for the
+13 purpose of concea l i ng any violations of law or preventing
+14 embarrassment of any person or entity.	If any of our
+15 questions can only be answered with classified information,
+16 Ambass ado r Yovanovitch, we'd ask you to inform us of that and
+17 we will adjust acco rd i ngly .
+18 I would also just note for the record that my
+19 understanding is that Ambassador Yovanovitch's counsel also
+20 has the necessary security clearances .	Is t hat r i gh t?
+21 1	MR. ROBBINS:	That is correct.
+22 MR. GOLDMAN:	All right.	Today's dep osi ti on is not
+23 being taken in executive session, but because of the
+24 sensitive and confidential nature of some of the topics and
+25 materials that will be discussed, access to the transcript of
+
+
+
+12
+
+
+
+
+the deposition will be limited to three committees in
+2 attendance.	You and your attorney will have an opportunity
+3 to review the transcript as well.	Per the House rules for
+4 this deposition, no members or staff may discuss the contents
+5 of this deposition outside of the three committees, including
+6 in public.
+7 Before we begin, I'd like to briefly go over the ground
+8 rules for this deposition.	We'll be following the House
+9 regulations for depositions.	We have previously provided
+10 your counsel with a copy of those regulations, and we have
+II copies here if you would like to review them at any time.
+12 The deposition will proceed as follows:
+13 The majority will be given 1 hour to ask questions and
+14 then the minority will be given 1 hour to ask questions.
+15 Ther eafter , we will alternate back and forth between majority
+16 and minority in 45-minute rounds until questioning is
+17 complete.	We will take periodic breaks, but if you need a
+18 break at any time, please let us know.
+19 Under the House deposition rules, counsel for other
+20 persons or government agencies may not attend.	And we can
+21 point you to the deposition rule if anyone would like to look
+22 at it.	You are allowed to have an attorney present during
+23 this deposition, and I see that you have brought th r ee.	And
+24 at th i s time, if counsel could state their names for the
+25 record.
+
+13
+
+
+
+MR. ROBBINS:	So I'm Lawrence Robbins from the firm of
+2 Robbins Russell, representing the Ambassador.	With me are
+3 Laurie Rubenstein and Rachel Li Wai Suen, also from our firm,
+4 also for the witness.
+5 MR. GOLDMAN:	There is a stenographer. or two. taking
+6 down everythihg that is said here in order to make a written
+7 record of the deposition.	For the record to be clear, please
+8 wait until the questions are finished before you begin your
+9 answer, and we will wait until you finish your response
+10 before asking the next question.	The stenographer cannot
+II	record nonverbal answers. such as shaking your head.	So i t
+12 is important that you answer each question with an audible
+13 verbal answer.
+14 We ask that you give complete replies to questions based
+15 on your best recollection.	If the question is unclear or you
+16 are uncertain in your response, please l et us know.	And if
+17 you do not know the answer to a question or cannot remember,
+18 simply say so.
+19 You may only refuse to answer a question to preserve a
+20 privilege that is recognized by the committee.	If you refuse
+21 to answer a question on the bas i s of privilege, staff may
+22 either proceed with the depos i ti on or seek a ruling fr om
+23 Chairman Schiff on the objection during the deposition at a
+24 time of the majority staff's choosing.	If the chair
+25 overrules any such objection during the deposition, you are
+
+14
+
+
+
+
+required to answer the question.	These are the House
+2 deposition rules.
+3 Finally, you are reminded that it is unlawful to
+4 deliberately prov i de f al se information to Members of Cong r ess
+5 or staff.	It is i mperative	that you not only answer our
+6 questions truthfully, but that you give full and complete
+7 answers to all questions asked of you.	Omissions may also be
+8 considered false statements .
+9 Now, as this deposition is under oath, Ambassador
+10 Yovanov i tch , would you please raise your rig h t hand and stand
+II	and you ' ll be sworn in.	Do you swear or af fir m that the
+12	testimony you are about to give is the whole truth and 1 3	nothing but the truth?
+14	MS. YOVANOVITCH:	I do.
+1 5	MR . GOLDMAN :	Thank you.	The record will refl ect that
+16 the witness has been duly sworn, and you may be sea ted.	Now,
+17 Ambassador Yovanovitch, I understa nd you have some openi ng
+18 r emar ks and now is the time to do them.
+19 MS. YOVANOVITCH:	Thank you.	Cha ir man Schiff,
+20 Mr. J ordan , and other members and staff who are here today .
+21 I really do thank you for the opportunity to start with a
+22 statement.	And I'd like to introduce myself.	For the
+23 last -- for the last 33 years, it's been my great honor to
+24 serve the American people as a Foreign Service Offi ce r over
+25 six adm i n i stra ti ons. four Republican and two Democrat .	I
+
+15
+
+
+
+have served in seven different count ri es; five of them have
+2 been hardship posts, and I was appointed to serve as an
+3 ambassador three times, twice by a Republican President, once
+4 by a Democratic President.
+5 Throughout my career, I have stayed true to the oath
+6 that Foreign Service Officers take and observe every day,
+7 that I  will support and defend th e Const i tut i on of the United
+8 States against all enemies, foreign and domest i c, and that I
+9 will bear tr ue faith and allegiance to the same.	Li ke all
+10 Foreign Service Officers with whom I have been privileged to II	serve, I have understood that oath as a commitment to serve 1 2	on a strictly nonpartisan basis, to advance the foreign
+13 3	policy determined by the i ncumben t Pre si dent , and to work at
+14 all t i mes to strengthen our national secu r i ty and promote our
+15 national i nterests .
+16 I come by these beliefs honestly and thr ough personal
+17 experience.	My parents fled Comm un i st and Nazi regimes.	And
+18 having seen, firsthand, the war and poverty and displacement
+19 common to totalitarian r egi mes , they valued the freedom and
+20 de mocra cy the U.S. offers, and tha t the United States
+21 r epresent s.	And they raised me to cher i sh those values as
+22 well.
+23 Their sacrifice allowed me to attend P r i ncet on
+24 University, whe re I focused my studies on the former Soviet
+25 Union.	And gi ve n my upbr i ng i ng and my background, it has
+
+16
+
+
+
+
+been the honor of a lifetime to help to foster those
+2	principles as a career Foreign Service Officer.	From
+3	August 2016 until May 2019. I served as the U.S. Ambassador
+4 to Ukraine.	Our policy, fully embraced by Democrats and
+5 Republicans alike. was to help Ukraine become a stable and
+6 independent democratic state, with a market economy
+7 int eg r ated into Europe.	Ukraine is a sovereign country whose
+8 borders a re i n vi ol ate , and whose people have the rig h t to
+9 determine their own d esti ny.	These ar e the bedrock
+10 principles of our policy.
+11 Because of Ukra i ne's geostrategic position bordering
+1 2	Russia on its east, the warm waters of the oi l-r i ch Black Sea
+13 to i ts south, and four NATO allies to its west, it i s
+14 critical to the security of the United States that Ukraine
+15 remain free and democrat i c, and that it continue to resi st
+16 Russian expansi on i sm.
+17 Russia's purported annexation of Crimea, i ts invasion of
+18 Eastern Ukraine, and its de facto control ove r the Sea of
+19 Azov , make clear Russ i a' s malign intentions towards Ukra i ne.
+20 If we allow Ru ssi a's actions to stand, we will set a
+21 pr ecedent that the United States wi l l regret for decades to
+22 come.
+23 So supporting Ukra i ne' s integration into Europe and
+24 combat i ng Russia's efforts to destabilize Ukrain e have
+25 anchored our policy since the Ukra i ni an people protested on
+
+17
+
+
+
+
+the Maidan i n 2014 and demanded to be a part of Europe and
+2 live according to the rule of law.	That was U.S. pol i cy when
+3 I became ambassador in August 2016, and it was reaffirmed as
+4 that policy as the policy of the current administration in 5	early 2017.
+6 The Revolution of Dignity and the Uk r a i ni an pe ople ' s
+7 deman d to end corruption forced the new Ukrainian Government
+8 to ta ke measures to fight the rampant corruption that long
+9 permeated that country's political and econom i c systems.	We
+10 have long understood that strong anti-corruption efforts must
+II	form an essential part of our po licy	in Ukraine, and now
+12 there was a window of opportunity to do just exactly that.
+13 And so why is that i mp ortan t?	And why is it important
+14 to us?	Put simply, anti-corruption efforts serve Ukra in e' s
+15 i ntere sts, but they also serve ours as well.	Corrupt leaders
+16 are inherently less trustworthy, while honest and accountable
+17 Ukrainian leadership makes a U.S.-Ukraine partnership more
+18 reli able and more valuable to us .	A level play i ng f i eld in
+19 this strategically located country, one with a Eu r opean
+20 landmass exceeded only by Russia, and with one of the la r ges t
+21 populations in Europe, creates an environment in which U.S.
+22 business can make more easily trade, invest, and profit.
+23 Corruption is a security issue as well because corrupt
+24 officials are vulnerable to Moscow.	In short, it is in our
+25 national security interest to help. Ukra in e t r ansf orm i nto a
+
+
+
+18
+
+
+
+
+country where the rule of law governs and corruption is held
+2 in check.
+3 But change takes time, and the aspiration to instill
+4 rule of law of values has still not been fulfilled.	Since
+5 2014, Ukraine has been at war, not just with Russia, but
+6 within itself, as political and economic forces compete to
+7 determine what kind of country Ukraine will become.	The same
+8 old oligarch-dominated Ukraine where corruption is not just
+9 prevalent, but frankly is the system.	Or the country that
+10 Ukrainians ·demanded	in the Revolution of Dignity.	A country
+11 where rule of law is the system, corruption is tamed, and
+12 people are treated equally, and according to the law.
+13 During the 2019 pres i dent i al elections in Ukraine, the
+14 people answered that quest i on once again.	Angered by
+15 insufficient progress in the fight against corruption,
+16 Ukrainian voters overwhelmingly voted for a man who said that
+17 ending corruption would be his number one priority.	The
+18 transition, however. created fear among the political elite,
+19 setting the stage for some of the issues I expect we will be
+20 discussing today.
+21 Understanding Ukraine's recent history, including the
+22 significant tension between th ose who seek to transform the
+23 country, and those who wish to continue profiting from the
+24 old ways, i s, I believe, of ·criti cal importance to
+
+25 understanding the events you asked me here today to de scribe.
+
+19
+
+
+
+Many of these events, and the false narratives that emerge
+2 from them, resulted from an unfortunate alliance between
+3 Ukrainians who continue to operate within a cor r upt system
+4 and Americans who either did not understand that system, that
+5 corrupt system. or who may have chosen, for their own
+6 purposes. to ignore it.
+7 It is seems obvious, but I think bears stating under the
+8 circumstances, that when dealing with officials from any
+9 country, or those claiming contacts -- or connections to
+10 officialdom, one must understand their background, their
+II	personal interest, and what they hope to get out of that
+12 particular interaction before deciding how to evaluate their
+13 description of events or acting on their information.
+14 To be clear, Ukraine is full of people who want the very
+15 th i ngs we have always said we want for the United States, a
+16 government that acts in the interest of the people, a
+17 government of the people, by the people, for the people.	The
+18 overwhelming support for President Zelensky in April's
+19 election proved that.	And it was one of our most important
+20 tasks at the embassy in Kyiv to understand and act upon the
+21 difference between those who sought to serve their people and
+22 those who sought to serve only themselves.
+23 With that background in mind, I would like to briefly
+24 address some of the specific issues raised in the press that
+25 I ant i ci pate you may ask me about today.	So just to repeat.
+
+20
+
+
+
+
+I arrived in Ukraine on August 22, 2016, and I left Ukra i ne
+2 permanently on May 20, 2019. Several of the events with
+3 which you may be concerned occurred before I was even in the
+4 country before I was ambassador. Here are just a few:
+5 The release of the so-called Black Ledger, and Mr .
+6 Manafort's subsequent resignation from the Trump campaign.
+7 The Embassy's April 2016 letter to the Prosecutor Ge neral ' s
+8 Office about the investigation into the Anti-Corruption
+9 Acti on Center or AntAC. And the departure from office of IO	former Prosecutor General Viktor Shakin, who I have never II		met. These events all occurred before I arrived.
+12 There are several events that occurred after I was
+13 recalled from Ukraine. These include President Trump's
+14	July 25th call with President Zelensky; all of the many
+15 discussions that have been in the press sur rounding that
+16 phone call; and any d i scussi on surrounding the reported delay
+17 of security assistance to Ukraine in summer 2019. So that
+18 happened after I depa rt ed.
+19
+
+20
+21
+
+22
+
+23
+
+24
+25
+
+21
+
+
+
+As for the events during my tenure in Ukraine.	I really want
+2 to make clear and I want to categorically state that I have
+3 never , myself or through others, d ir ect ly or i nd i rectly , ever
+4 directed, suggested , or in any other way asked , for any
+S	government or governme nt offic i al in Ukraine or elsewhere to
+6 refrain from investigating or prosecuting actual corruption.
+7 As Mr. Lutsenko, the form er Ukraine prosecutor general,
+8 has recently acknowledged, the notion that I created or
+9 disseminated or verbally told him a do-not-prosecute l i st is
+10 completely false.	And that is a story that M r. Lutsenko
+II	himself has since retracted.
+12 Equally f i cti ti ous is the notion that I am d i sloyal to
+13 Pr es i dent Trump.	I have heard the al legat i on i n the media
+14 that I supposedly told our em ba ssy team to ignore the
+15 President's orders since he was goi ng to be impeached.	That
+16 allegation is false.	I have never sa i d suc h a th i ng to my
+17 embassy colleagues or anyone else.
+18 Next, the Obama administration did not ask me to help
+19 the Cl i nt on campaign, or harm the Tr ump campa i gn , and if they
+20 had, I would never have taken any such steps.	I have never
+21 met Hunter Biden, nor have I had any direct or i ndi re ct
+22 conversations wi th him.	Of course , I have met former Vice
+23 P resi dent Biden several times over the course of our many
+24 years in government, but neither he nor the previous
+25 administration ever directly or indirectly raised the issue
+
+22
+
+
+
+
+either of Burisma or Hunter Biden with me.
+2 With respect to Mayor Giuliani, I have only had minimal
+3 contact with him, a total of three that I	recall.	None
+4 related to the events at issue.	I do not know Mr. Giuliani 's
+5 motives for attacking me.	But individuals who have been
+6 named in the press who have contact with Mr. G i ul i an i may
+7 well have believed that their personal and financial
+8 ambi ti ons were stymied by	our anti-corruption poli cy in
+9 Ukraine.
+10 F i na lly , after being asked by the Department in early
+11	March to extend my tour, to stay on an extra year until 2020,
+12 in late April, I was then abruptly asked to come back to
+13 Washington from Ukraine on the next plane.	You will
+14 understandably	want to ask why my posting ended so suddenly .
+15 I   wanted to	learn that, too, and I tr i ed to find out.
+16 I met wi th the Deputy Sec r etary of State, who informed
+17 me of the curtailment of my term.	He said that the President
+18 had lost confidence in me, and no longer wished me to ser ve
+19 as an ambassador.	He added that there had been a concerted
+20 campaign against me, and that the Department had been under
+21 pressure from the President to remove me since the summer of
+22 2018.	He also sa i d that I had done nothing wrong, and that
+
+23this was not like othersituations where he had recalled24ambassadors for cause.I departed Ukraine for good this past25May.
+23
+
+
+
+Although I understand, everyone understands, that I
+2 served at the pleasure of the President, I was nevertheless
+3 incredulous that the U.S. Government chose to remove an
+4 ambassador based, as far as I can tell. on unfounde d and
+5 false claims by people with clearly questionable motives.	To
+6 make matte r s worse, all of this occurred during an especially
+7 challenging time in bilateral relat i ons with a newly elected
+8 Ukrainian President.	This was precisely the time when
+ 9 continuity at the U.S . Embassy in Ukra i ne was most needed. 1 0		Before I close, I must share with you the deep
+II	disappointment and dismay I have felt as these events have
+12 unfolded.	I have served this Nation honorably for more than
+13 30 years.	I have proudly promoted and served American
+14 interests as the representative of the American people and
+15 six different Presidents over the last three decades.
+16 Throughout that time, I, like my colleagues at the State
+17 Depa rtm ent, have always believed that we have enjoyed a
+18 sacred trust with our government.
+19 We make a difference every day.	And I know many of you
+20 have been out to embassies around the world, and you know
+21 that to be true.	Whether it's a matter of war and peace,
+22 trade and investment, or simply helping an American citizen
+23 with a lost passport.	We repeatedly uproot our lives, and we
+24 frequently put ourselves in ha r m' s way to serve our Nation,
+25 and we do that willingly, because we believe in America and
+
+24
+
+
+
+
+its special role in the world.
+2 We also believe that in return, our government will have
+3 our backs and protect us if we come under attack from foreign
+4 i nt erests .
+5 That basic understanding no longer holds true.	Today,
+6 we see the State Department attacked and hollowed out from
+7 within.	State Department leadership with Congress needs to
+8 take action now to defend this great institution, and its
+9 thousands of loyal and effective employees.	We need to
+10 rebuild diplomacy as the first resort to advance Amer i ca ' s
+II	interest, and the front line of America's defense.	I fear
+12 that not doi ng so will harm our Nati on' s interest, perhaps
+13 irreparably.	That harm will come not just through the
+14 inevitable and continuing resi gnat i on and loss of many of
+15 this Nati on' s most loyal and talented public ser vant s.	It
+16 also will come when those d i plomat s who soldier on and do
+17 their bes t to rep r esent our Nati on, face partners abroad who
+18 question whether the ambassador really speaks for the
+19 President, and can be counted upon as a reliable partner.
+20 The harm will come when private interests circumvent
+21 pr ofessi onal diplomats for the i r own ga i n , not for the public
+22 good.	The harm will come when bad actors and countries
+23 beyond Ukraine see how easy it i s to use f i ct i on and innuendo
+24 to manipulate our system.	In such circumstances, the only
+25 interests that are going to be served are those of our
+
+25
+
+
+
+strategic adversaries like Russia, that spread chaos and
+2 attack the institutions and norms that the U.S. helped create
+3 and which we have benefited from for the last 75 years.
+4 I am proud of my work in Ukraine.	The U.S. Embassy
+5 under my leadership represented and advanced the policies of
+6 the United States Government as articulated first by the
+7 Obama administration, and then by the Trump administration.
+8 Our efforts were intended, and evidently succeeded, in
+9 thwarting corrupt interests in Ukraine who fought back by
+10 selling baseless conspiracy theories to anyone who would II		listen.	Sadly, someone was listening, and our Nation is
+12 worse off for that.
+13 So I want to thank you for your attention, and I welcome
+14 your questions.	Thank you.
+15 THE CHAIRMAN:	Thank you very much for your testimony.
+16 Mr. Goldman .
+17 MR. ROBBINS:	Excuse me, just before we begin.	Pardon
+18 me, I have a terrible cold this morning and I apologize if
+19 I'm hard to hear.	Mr. Chairman, I' d just like to put the
+20 following on the record before we begin today's depos i t i on.
+21 As you know, the Department of State, in which the
+22 ambassador is still employed, has asserted that its lawyers
+23 should be allowed to attend this deposition so that they can
+24 assert privileges or objections the Department might wish to
+25 assert on behalf of the executive branch.	As we have told
+
+26
+
+
+
+
+both State Department lawyers and committee lawyers, it is
+2 not our place to get in the middle of that or to take sides
+3 in a dispute between the Congress and the executive branch,
+4 and we don't intend to.
+5 Ambassador Yovanovitch has been subpoenaed to testify,
+6 and as we read the law, she is obliged to be here and
+7 testify, and she wi11.	We have repeatedly asked the State
+8 Department's office of the legal advisor to provide us with a
+9 written statement that we could read on their behalf so that
+10 their concer ns regarding what they term, quote, "execut i ve II		branch con f i d ential i ty interests," end quote, could be heard
+12 by this committee.	We have asked them to specify in writing
+13 particular topics with r espect to which they wish us to point
+14 out their interests.	And although we were told we would
+15 receive such a statement, we have not.
+16 So that Ambassador Yovanovitch can be as diligent as
+17 possible in complying with her employer's wishes, I will do
+18 my best, during the course of this hearing, to point out
+t9	questions that might elicit information that I understand to
+20 fall within the scope of their concerns.	I wi l l also tell
+21 you now that the Department told us that they don't want our
+22 appearance today to be constru ed as a waiver of any
+23 privileges they may hold.
+24 I	want to be clear that I	am not asserting any of those
+25 pr i v i leges on the client's behalf because, of course, we
+
+27
+
+
+
+don't have a right to assert those privileges at all.	If
+2 they exist, they belong to the Department, and we will, of
+3 course, make those objecti ons subject to whatever ruling the
+4 chair chooses to make in the wake of those objections.
+5 And with that on the record, I turn this over to counsel
+6 for the majority.
+7 THE CHAIRMAN:	Thank you.	Mr. Goldman.
+8 MR. GOLDMAN:	Thank you, Mr. Chairman.	Thank you for
+9 that opening statement, Ambassador Yovanovitch.	I think
+10 everyone recognizes and appreciates your long service to this
+II	country.
+12 EXAMINATION
+13 BY MR. GOLDMAN:
+14 Q	We are going to get into the circumstances
+15 surrounding your abrupt removal, but in order, I think, to
+16 fully understand that, we need to back up a little bit.	And
+17 I want to focus at the outset on press reports and other
+18 indications of Rudy Giuliani's involvement in Ukraine.
+19 When did you first become aware that Rudy Giuliani had
+20 an interest in or was communicating with anyone in Ukraine?
+21 A	Probably around November , December timeframe of 22	2018.
+23 Q	And describe those circumstances when you first
+24 learned about it.
+25 A	Basically, it was people in the Ukrainian
+
+28
+
+
+
+
+Government who said that Mr. Lutsenko, the former prosecutor
+2 general, was in communi cat i on with Mayor Giuliani, and that
+3 they had plans, and that they were go i ng to, you know, do
+4 th i ng s, including to me.
+5 Q	So you first heard about it from the Ukrainian
+6 officials?
+7 A	That' s correct.
+8 Q	Did you understand how they were aware of this
+9 information?
+10 A	So I can tell you what I think, you know, this is
+II	perhaps not a fact.	But the i mpre ssi on that I received is
+12 that Mr. Lutsenko was talking rather freely about this in,
+13 you know, certain circles, and so others heard about it who
+14 wanted to let us know.
+1 5	THE CHAIRMAN:	Can you move the microphone a little
+16 closer.
+17 MS. YOVANOVITCH:	Sorry.
+}8	BY MR. GOLDMAN:
+19 Q	Were these Ukrainian Government officials?
+
+20 A
+21 Q
+
+Yes.
+Can you describe for us who the former Prosecutor
+
+22 Ge ner al Lutsenko i s, and give us some context as to his
+23 background and what your assessment of him is?
+24 A	Yeah , he's a Ukrainian politician.	He' s been in
+25 politics I would say, probably, the last 20 years or so, and
+
+29
+
+
+
+he has held many high government positions.	He's a political
+2 ally of former Presi dent	Poroshenko, or at least was until
+3 the time I left, I don't know where that status is now.	And
+4 he is a man who was the head of the Poroshenko faction and
+5 the Rada, which is the Ukrainian parliament, until the spring
+6 of 2016 when he was voted in to become the prosecutor
+7 general.
+8 Q	Is he a lawyer?
+9 A	No.
+IO	Q	So how did he become the prosecutor general?
+II	A	Because the Rada had to take a prior vote that
+12 would allow that exception, which I believe is act ually even
+13 in the constitution, either cons titut i on or law.
+14 4	Q	So he was the prosecutor genera l the entire time
+15 that you were in Ukraine.	Is that right?
+
+
+16 A
+
+17 Q
+
+That's correct.
+And can you just describe bri efly what the role of
+
+18 the prosecutor general is in Ukra i ne?
+19 A	Yes.	And because Uk r a i ne is a country in
+20 transition, that role was i n the process of becoming
+21 reformed.	So the prosecutor general ' s office i s, or
+22 position, is a very powerfu l one, it's a hold-over from the
+23 Soviet Union days.	And that individual is in cha rg e of both
+24 investigatory actions, like the FBI, for example, as well as
+25 the actual prosecution.	So it' s tremendous power.
+
+
+
+30
+
+
+
+
+And Mr. Lut senko was bro ught in to reform that off i ce to
+2 spl i t the off i ces , investigatory and prosecuto r i al , a nd to
+3 make real reform s so that -- because the PGO, Prosecutor
+4 Gene ral ' s Offi ce , was v i ewed as an instrument of corruption
+5 bas i cally , to grant people favors, they cou l d open cases,
+6 t hey could close cases based on money pass i ng hands or
+7 whatever was most opportune, and it trickled down to the
+8 ordin ary people ' s lives as well.	So it was seen as a place
+
+9 where ironically co r rupt i on thrived and he was brought	in to
+10 clean that up.
+11 Q	Was he successful in clean i ng that up?
+12 A	No.
+13 Q	How would you assess his character?
+14 A	He's very smart.	He can be very charming.	He , I
+15 th i nk , i s an opportunist and will ally h i msel f , somet i mes
+16 si multane ously, I believe, with whatever pol i ti cal or
+17 econom i c forces he believes will suit his i nte r ests best at
+18 the ti me .
+
+19 Q
+20 A
+
+Would you call him someone who is corrupt?
+I have cer ta i nly heard a lot of people call him
+
+21 co r r upt , and there are certainly a lot of stories about his
+22 actions that would indicate that.
+23 Q	You mentioned in your opening statement that the re
+24 were false statements that were spread about you .	Was he one
+25 of the i nd i v i dua ls who spread those false statements about
+
+31
+
+
+
+you?
+2 A	Yes.
+3 Q	Now, let's go back to first learning about Rudy
+4 Gi ul i an i 's involvement.	What did you understand in late 2018
+5 to be Mr. Giuliani's interest in Ukraine?
+6 A	I wasn't really sure, but he had cli ent s in
+7 Ukraine, so that was one possible th i ng .	But he also
+8 obviously is the Pre si dent 's personal lawyer.	So I wasn't
+9 really sur e what exactly was going on.
+
+
+10
+
+11	was?
+12
+
+Q	Did you come to lea r n what his i nt erest in Ukraine
+
+
+A	Well, you know, I read the press and watch TV just
+
+
+13 like everybody else in this room, so yeah, I learned.
+14 Q	Did you have any further con ver sat i ons with
+15 Ukrainian Government officials about Mr. Giuliani's
+16 activities in Ukraine?
+17 A	Yes, I did.	Most of the conversations were not
+18 with me directly, people on the embassy staff, but yes, I did
+19 have othe r conversat i ons.
+20 Q	And from your staff members or your own
+21 conversations, what did you come to learn about
+22 Mr. G i ulian i ' s interest in Ukraine?
+23 A	That basically there had been a number of meetings
+24 between Mr. Lut senk o and Mayor Giuliani, and that they were
+25 l ook i ng -- I should say that Mr. Lutsenko was looking to hurt
+
+32
+
+
+
+
+me in the U.S.	I couldn't imagine what that was.	But, you
+2 know, now I see.
+3 Q	What do you see now?
+4 A	Well, that I'm no longer in Ukraine.
+5 Q	Fair enough.	But describe the evolution of your
+6 understanding as to how Mr. Lutsenko was trying to hurt you
+7 in the U.S.?
+8 A	I think, and again, I am getting this partly from
+9 conversations with people who may or may not know what really
+10 happened, as well as what has been in the media, both in
+11 Ukraine and here in the United States.	So I' ll tell you what
+12 I think.	I can't say that --
+13 Q	Let me just interrupt you there.	Is some of your
+14 knowledge based on Mr. Giuliani's statements himself?
+15 A	To the press.
+16 Q	Okay.
+17 A	So I th i nk tha t there was -- Mr. Lutsenko was not
+18 pleased that	that we continued at the embassy to call for
+19 cleaning up the PGO. the Prosecutor General's Office, and he
+20 came into office with, you know. three goals:	One was to
+21 reform the office, one was to prosecute those who killed the
+22 innocent people on the Maidan during the Revolut i on of
+23 Dignity, and one was to prosecute money laundering cases to
+24 get back the $40 billion-plus that the previous president and
+25 his cronies had absconded with.	None of those things were
+
+33
+
+
+
+done.	And we thought those were great goals. and we wanted
+2 him to encourage him to continue with those goals.	That did
+3 not happen.
+4 And so. we continued to encourage him, and I don't think
+5 he r eally appreciated it.	What he wanted from the U.S.
+6 Embassy was for us to set up meetings wi th the Attorney
+7 General, with the Director of the FBI , et cetera.	And he
+8 would say, I have important information for them.	As perhaps
+9 many of you know, there are, you know, usual processes for
+10 that kind of thing.	We don't have principals meet and, you
+11 know, the foreign principal springs new information that may
+12 or may not be valid to an American cabinet member, we just
+13 don ' t do that.
+14 And so what we kept on encouraging him to do was to meet
+15 wi th the legat, the legal attache, the FBI at the embassy.
+16 That is precisely why we have the FBI in countries overseas,
+17 to work with host country counterparts and get information,
+18 whatever that information might be, develop cases, et cetera.
+19 He didn't want to share that i nf ormat i on.	And now, I think I
+20 understand that that information was falsehoods about me.
+21 Q	What falsehoods about you?
+22 A	Well, for example, as I mentioned i n the testimony,
+23 in the statement, the opening statement, that I gave him a
+24 do-not-prosecute list, a list of individuals that he should
+25 not touch.
+
+34
+
+
+
+
+Q	And did you do that?
+
+2 A	No.
+3 Q	Did you learn whether there was any additional
+4 i nf ormat i on that he wanted to share wi th U.S. Government
+5 off i ci als ?
+6 A	Well, I think, you know, it was other th i ngs along
+
+7 that li ne.
+8 Q	One of the things that has been publicized quite
+
+9 si gni f i cantly is information that Prosecuto r General Lutsenko
+10	may have had i n connect i on to ei ther Paul Manafort or the
+11 2016 election?
+12 A	Uh- huh .
+1 3	Q	Did you come to learn anything about either of
+14 those topics?
+15 A	He d i dn ' t share anything with me.
+16 Q	Did he share anything with any other Ukra i ni an
+17 officials that you then learned about it from, or learned
+18 about this f rom?
+19 A	I think, yeah, I th i nk they may have been aware
+20 that that was more broadly what he also might sh are with
+21 M r. Giuliani. .
+22 Q	Well, let me ask the question this way:	Other than
+
+23 i nformat i on about you --
+24 A	Uh-huh .
+25 Q	-- what other information did you come to learn
+
+35
+
+
+
+while you were at post about what Mr. Lutsenko wanted to
+2 share with American officials?
+3 MR. ROBBINS:	So you're asking now while she was
+4 ambassador as opposed to things she' s read in the paper and
+5 media since she was recalled?
+6 BY MR. GOLDMAN:
+7 Q	Yes, I'm asking while you were there, what did you
+8 understand?
+9 A	Yeah, it was very amorphous, because while there
+10 was sort of that gossip out there, the gossip that I was
+11 going to be recalled, and you know, people would ask me, and
+12 I' d say No, no, I' m he re, I' m worki ng.	But i t was ve ry
+I 3	amorphous, and so at the time, I d i dn 't know.	When i t became
+14 clearer was on March 24th with the publication of The Hill
+15 interview with Mr. Lutsenko.
+16 So that, you know , that was sort of the first kind of
+17 public, on the record, in the United States, and then over
+18 the ensuing days there was more in the U.S. media,
+19 Mr. Gi ul i an i spoke publ i cly , and Donald Trump Jr. also
+20 tweeted that I should be rem oved .
+21 Q	So let's separate out your removal from any of the
+22 other information.
+23 A	Okay.
+24 Q	Because we are going to get to your removal , and
+25 we're goi ng to focus on that.	But just to get the lay of the
+
+36
+
+
+
+
+land here.	What did you -- when you referenced The Hill,
+2 what did you come to learn from The Hill about information
+3 that Lutsenko was trying to share?
+4 A	Well, I   think, I mean, I th i nk. I've already told
+5 you.	So he shared information that there was -- he raised
+
+6 questions -- again, this happened before I arrived, but he
+7 raised questions about U.S. Government assistance to the PGO,
+8 and whether there was a discrepancy in the funding and
+9 whether he should be investigating it, and that the embassy
+10 had assured him, again, before I arrived, that we had fully
+11 accounted for all U.S. funds, and that we were not concerned
+12 about this.	So that was one line that he talked about.
+13 There was the do-not-prosecute list.	There was. I mean, you
+14 know, a number of issues.
+15 Q	Was there anything about the 2016 election or Paul
+16 Manafort?
+17 A	I	think, yeah, I	think that was in The Hill article
+
+18 as well.
+19 Q	And what about former Vice President Joe Biden or
+20 Burisma?
+21 A	I think that was in the article as well.
+22 Q	So after you learned about this in The Hill, did
+23 you have any additional conversations with people, either
+24 Americans in the embassy, or Ukrainian officials about the
+25 reports?
+
+37
+
+
+
+A	Well, in the embassy we were trying to figure out
+2 what was going on.	I also, of course, was in touch with
+3 folks in Washington at the NSC, and at the State Department
+4 to try to figure out what was this, what was going on.
+5 Q	What did you learn?
+6 A	Not much.	I mean, I think people were not sure.
+7 On the 25th, the day after The Hill article came out, the
+8 State Department had a pretty strong statement that said that
+9 Mr. Lutsenko's allegations were a fabr i cat i on, and then, you
+10 know, over the weekend, there was a lot more in the media.
+11 And, you know, the State Department was trying to figure out
+12 how to respond, I think, during that time and the following
+13 week.	But I didn't get very much information.
+14 Q	At that point, were you aware that Mr. Gi ul i an i had
+15 met with Mr. Lutsenko previous ly?
+16 A	Yeah, I think it became pretty clear.
+17 Q	What do you mean by that?
+18 A	Because I think it was in the media, and I think
+19 they said it.
+20 Q	So at this point, just so we' re clear.	Mr.
+21 Giuliani was never an employee of the State Department,
+22 right?
+23 A	Not to my knowledge.
+24 Q	You said that you met with him, I think, three
+25 times.	Can you describe those meetings?
+
+38
+
+
+
+
+A	Uh-huh.
+2 THE CHAIRMAN :	Just ask -- before we get to that,
+3 counse l.	Did you know at the time or have you learned since
+4 why Mr. Lutsenko was engaged in pushing out these smears
+5 against you?	Why did he want to get rid of you?
+6 MS. Y0VAN0VI TCH:	Well, again, I can tell you what I
+7 think, but I don't know for a fact.
+8 THE CHAIRMAN:	You know, based on what you' ve learned
+9 from colleagues, what you've learned in the press, what is
+10 your best understanding of why Lutsenko was tr y i ng to push II	you out of Ukraine?
+12 MS. Y0VA N0V ITCH:	I think that he felt that I and the
+13 embassy were effective at helping Ukrainians who wanted to
+14 reform, Ukrainians who wanted to fight against co rrupt i on ,
+15 and he did not -- you know , that was not in his interest.	I
+16 th i nk also that he was, I mean, i t's hard to bel i eve , I think
+17 he was personally angry with me that we weren't -- we did
+18 work with the PGO's office, but he wanted us to work with him
+19 in different ways, you know. and that we d i dn' t have a closer
+20 relationship, and that I was not facilitating trips for him
+21 to the United States with our cabinet members, when there
+22 was, frankly, nothing to tal k about because he wasn't a good
+23 partner for us.
+24 THE CHAIRMAN:	You had mentioned earli er that you were
+25 try i ng to make sure that Ukrainian officials used proper
+
+39
+
+
+
+
+legal channels --
+2 MS. YOVANOVITCH:
+3 THE CHAIRMAN:
+
+
+
+Yes.
+if they had information that they
+
+4 wanted to share with U.S. law enforcement?
+5 MS. YOVANOVITCH:	Right.
+6 THE CHAIRMAN:	Do you think that your insistence or
+7 advocacy for following the proper procedures in terms of
+8 using legat and legal channels was part of the reason why he
+9 wanted you removed?
+10 MS. YOVANOVITCH:	Maybe.	Maybe.	I mean , he clearly
+11 wanted to work around the system where I think there's less
+12 transparency, there are more opportunities to, you know, kind
+13 of	fiddle the system, shall we say.
+1 4	BY MR. GOLDMAN :
+15 Q	Okay.	And when you say work around the system , did
+16 you come to understand that that was a role that Mr. Giuliani
+17 could play for him, for Mr. Luts enko?
+18 A	Well, now it certainly appears that way.
+19 Q	But when did you come to understand that?
+20 A	You know, now, you know, with the advantage of
+21 hindsight, you're going to think that I'm incredibly naive,
+22 but I couldn ' t imagine all of the things that have happened
+23 over the last 6 or 7 months, I just couldn't im ag i ne it.
+24 So we knew that there was something out there.	We were
+25 ask i ng ourselves, you know, what is going on?	But then it
+
+40
+
+
+
+
+became clear with The Hill interview and all the subsequent
+2 things that came out in the press.
+3 Q	So the State Department issued a statement
+4 essentially denying what was reported in The Hill?
+5 A	Uh - huh .
+6 Q	Did you ever receive any pressure from anyone at
+7 the State Department to reconsider your position or in any
+8 way consider some of the advocacy of Mr. Giuliani?
+9 A	I don't quite understand the
+10 Q	I'm wondering if you got any messages or
+I I	suggestions or directions from the State Department that were
+12 consistent with what Mr. Giuliani was discussing and what his
+13 interests were?
+14
+
+15
+16 information came out in The Hill in late March, you had a
+17 number of conversations both with people in the embassy and
+18 people back in Washington.	Who were you speaking to within
+19 the State Department about this issue?
+20 A	Assistant Secretary -- or Acting Assistant
+21 Secretary Phil Reeker of the European Bureau, who is my boss.
+22 I spoke once with David Hale, who is the Under Secretary for
+23 Political Affairs.	And at the NSC with Fiona Hill.
+24 Q	And what was the message that you generally
+25 received from them?
+
+41
+
+
+
+A	Total support.
+2 Q	They understood that this was a fabrication?
+3 A	Yeah, I mean, until today, nobody has ever actually
+
+4 asked me the question from the U.S. Government of whether I
+5 am actually guilty of all of these things I'm supposed to
+6 have done.	Nobody even asked, because I think everybody just
+7 thought it was so outrageous.
+8 Q	Did you ever have any	conversations after November,
+9	December 2018, with Ukrainian offi c i als about Mr. Giuliani up
+10	until the time that you left in May?
+II A	I think perhaps in the February ti me period, I did
+12 where one of the senior Ukrainian officials was very
+13 concerned, and told me I really needed to watch my back .
+
+
+14 4	Q
+15 A
+
+Describe that conversation.
+Well, I mean, he basically said, and went into some
+
+16 detail, that there were two i nd i viduals	from Florida,
+17 Mr. Parnas and Mr. Fruman, who were working with Mayor
+18 Giuliani, and that they had set up the meetings for
+19 Mr. Giuliani with Mr. Lutsenko.	And that they were
+20 i nterested	in having a different ambassador at post, I guess
+21 for -- because they wanted to have business dealings in
+22 Ukraine, or additional business dealings.
+23 I didn't understand that because nobody at the embassy
+24 had ever met those two individuals.	And, you know , one of
+25 the biggest jobs of an American ambassador of the U.S.
+
+42
+
+43
+
+44
+
+45
+
+
+
+[11:39 a.1111.]
+
+2 BY MR. GOLDMAN:
+3 Q	So your understanding in February and your meeting
+4 with Minister Avakov was that he was aware at that time of
+5 Mr. Giuliani's interests in those topi cs?
+
+6 A	Yes.
+7 Q	Did you have an understanding as to whether other
+
+8 Ukrainian Government officials were also aware of
+9 Mr. Giuliani's i nterest	in those specific topics?
+10 A	I -- I got the impression that it was relatively
+II	openly discussed at the very, very most senior levels, but
+12 nobody else was sharing this with me at that time.
+13 Q	And so, was it your understand i ng that the Minister
+14 Avakov or other senior Ukrainian officials were aware of
+
+15 Mr. Giuliani's connection to President Trump?
+16 A	Yes, everybody knew that.
+17 Q	What did they know?
+18 A	That he was the Pre si dent's	personal lawyer.
+19 Q	Was i t your understanding that they believed that
+20 Rudy Giuliani spoke on behalf of, or for the President?
+21 A	I think -- I think they didn't know.	I think they
+
+22 hoped that he did, and
+
+
+23 Q
+24 A
+
+Hoped that he did or didn't?
+Hoped -- well, the individuals who were meeting
+
+
+25 with Mr. Giuliani certainly hoped that Mr. Giuliani was
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+85
+
+86
+
+87
+
+88
+
+89
+
+90
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+97
+
+98
+
+99
+
+100
+
+101
+
+102
+
+103
+
+104
+
+105
+
+106
+
+107
+
+108
+
+109
+
+110
+
+111
+
+112
+
+113
+
+114
+
+115
+
+116
+
+117
+
+118
+
+119
+
+120
+
+121
+
+122
+
+123
+
+124
+
+125
+
+126
+
+127
+
+128
+
+129
+
+130
+
+131
+
+132
+
+133
+
+134
+
+135
+
+136
+
+137
+
+138
+
+139
+
+140
+
+141
+
+142
+
+143
+
+144
+
+145
+
+146
+
+147
+
+148
+
+149
+
+150
+
+151
+
+152
+
+153
+
+154
+
+155
+
+156
+
+157
+
+158
+
+159
+
+160
+
+161
+
+162
+
+163
+
+164
+
+165
+
+166
+
+167
+
+168
+
+169
+
+170
+
+171
+
+172
+
+173
+
+174
+
+175
+
+176
+
+177
+
+178
+
+179
+
+180
+
+181
+
+182
+
+183
+
+184
+
+185
+
+186
+
+187
+
+188
+
+189
+
+190
+
+191
+
+192
+
+193
+
+194
+
+195
+
+196
+
+197
+
+198
+
+199
+
+200
+
+201
+
+202
+
+203
+
+204
+
+205
+
+206
+
+207
+
+208
+
+209
+
+210
+
+211
+
+212
+
+213
+
+214
+
+215
+
+216
+
+217
+
+218
+
+219
+
+220
+
+221
+
+222
+
+223
+
+224
+
+225
+
+226
+
+227
+
+228
+
+229
+
+230
+
+231
+
+232
+
+233
+
+234
+
+235
+
+236
+
+237
+
+238
+
+239
+
+240
+
+241
+
+242
+
+243
+
+244
+
+245
+
+246
+
+247
+
+248
+
+249
+
+250
+
+251
+
+252
+
+253
+
+254
+
+255
+
+256
+
+257
+
+258
+
+259
+
+260
+
+261
+
+262
+
+263
+
+264
+
+265
+
+266
+
+267
+
+268
+
+269
+
+270
+
+271
+
+272
+
+273
+
+274
+
+275
+
+276
+
+277
+
+278
+
+279
+
+280
+
+281
+
+282
+
+283
+
+284
+
+285
+
+286
+
+287
+
+288
+
+289
+
+290
+
+291
+
+292
+
+293
+
+294
+
+295
+
+296
+
+297
+
+298
+
+299
+
+300
+
+301
+
+302
+
+303
+
+304
+
+305
+
+306
+
+307
+
+308
+
+309
+
+310
+
+311
+
+312
+
+313
+
+314
+
+315
+
+316
+
+317
